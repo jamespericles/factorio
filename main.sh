@@ -1,3 +1,5 @@
+#!/bin/bash
+
 die () {
     echo >&2 "$@";
     exit 1;
@@ -20,5 +22,6 @@ if [ "$1" = "push" ] || [ "$1" = "pull" ] || [ "$1" = "update" ]; then
         echo "Pulling from github"
         git pull
         cp -r $factorioRepo/* "$factorioLocal"
-        fi
-        fi
+        echo "Updated local files"
+    fi
+fi

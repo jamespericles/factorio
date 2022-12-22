@@ -1,66 +1,310 @@
-   0.000 2022-12-22 14:28:36; Factorio 1.1.74 (build 60256, mac-x64, full)
-   0.003 Operating system: macOS 10.16.0
-   0.004 Program arguments: "/Applications/factorio.app/Contents/MacOS/factorio" 
-   0.004 Config path: /Users/james/Library/Application Support/factorio/config/config.ini
-   0.004 Read data path: /Applications/factorio.app/Contents/data
-   0.004 Write data path: /Users/james/Library/Application Support/factorio [75041/399589MB]
-   0.004 Binaries path: /Applications/factorio.app/Contents
-   0.052 System info: [CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, 16 cores, RAM: 40960 MB]
-   0.052 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmW] [Lang: en]
-   0.178 Available displays: 3
-   0.178  [0]: iMac - {[0,0], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x42baca4(0x01)}
-   0.178  [1]: LEN P27h-10 - {[-2560,192], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x2b985ef5(0x02)}
-   0.178  [2]: Studio Display - {[2560,227], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x42b56ba(0x04)}
-   1.234 Initialised OpenGL:[0] AMD Radeon Pro 5500 XT OpenGL Engine; driver: 4.1 ATI-4.9.48
-   1.234   [Size] Window: 2560x1440, Backbuffer: 5120x2880
-   1.234   [Extensions] s3tc:yes; KHR_debug:NO; ARB_clear_texture:NO, ARB_copy_image:NO
-   1.234   [Version] 4.1
-   1.234 Graphics settings preset: very-high
-   1.234   Dedicated video memory size 8176 MB (detected from AMD Radeon Pro 5500 XT Compute Engine; VendorID: 0x1021e00)
-   1.336 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
-   1.337                   [Max threads (load/render): 32/16] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
-   1.537 [Audio] Backend:SDL(default); Driver:coreaudio, Device:Default device, Depth:16, Channels:2, Frequency:44100
-   1.622 Loading mod core 0.0.0 (data.lua)
-   1.655 Loading mod base 1.1.74 (data.lua)
-   1.774 Loading mod base 1.1.74 (data-updates.lua)
-   1.839 Checksum for core: 870127790
-   1.839 Checksum of base: 4211423066
-   1.989 Prototype list checksum: 3034860339
-   2.027 Loading sounds...
-   2.068 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1671740753
-   2.068 Info PlayerData.cpp:78: Cloud player-data.json unavailable
-   2.206 Crop bitmaps.
-   2.228 Parallel Sprite Loader initialized (threads: 0)
-   2.751 Initial atlas bitmap size is 16384
-   2.764 Created atlas bitmap 16384x16384 [none]
-   2.766 Created atlas bitmap 16384x13052 [none]
-   2.766 Created atlas bitmap 8192x4188 [decal]
-   2.766 Created atlas bitmap 16384x5568 [low-object, linear-minification]
-   2.766 Created atlas bitmap 8192x4432 [mipmap, linear-minification, linear-magnification, linear-mip-level]
-   2.766 Created atlas bitmap 16384x6064 [terrain, mipmap, linear-minification, linear-mip-level]
-   2.766 Created atlas bitmap 4096x3216 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
-   2.767 Created atlas bitmap 4096x1840 [smoke, mipmap, linear-minification, linear-magnification]
-   2.767 Created atlas bitmap 4096x3088 [mipmap]
-   2.767 Created atlas bitmap 8192x2240 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
-   2.767 Created atlas bitmap 8192x1496 [alpha-mask]
-   2.768 Created atlas bitmap 16384x14772 [shadow, linear-magnification, alpha-mask]
-   2.768 Created atlas bitmap 8192x2352 [shadow, mipmap, linear-magnification, alpha-mask]
-   2.768 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
-   2.838 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
-   3.227 Parallel Sprite Loader initialized (threads: 15)
-  16.071 Sprites loaded
-  16.158 Generated mipmaps (4) for atlas [3] of size 16384x5568   
-  16.183 Generated mipmaps (3) for atlas [4] of size 8192x4432   
-  16.221 Generated mipmaps (3) for atlas [5] of size 16384x6064   
-  16.227 Generated mipmaps (3) for atlas [6] of size 4096x3216   
-  16.234 Generated mipmaps (3) for atlas [7] of size 4096x1840   
-  16.273 Generated mipmaps (3) for atlas [8] of size 4096x3088   
-  16.331 Generated mipmaps (5) for atlas [9] of size 8192x2240   
-  16.344 Generated mipmaps (3) for atlas [12] of size 8192x2352   
-  16.352 Custom mipmaps uploaded.
-  16.452 Factorio initialised
-  16.454 Info HttpSharedState.cpp:54: Downloading https://updater.factorio.com/updater/get-available-versions?username=jpericles&token=<private>&apiVersion=2
-  17.176 0 packages available to download (experimental updates disabled).
-  33.692 Info HttpSharedState.cpp:54: Downloading https://mods.factorio.com/api/mods?page_size=max&lang=en
-  59.711 Quitting: user-quit.
-  59.934 Goodbye
+   0.001 2022-12-22 15:20:05; Factorio 1.1.74 (build 60256, mac-x64, full)
+   0.005 Operating system: macOS 10.16.0
+   0.006 Program arguments: "/Applications/factorio.app/Contents/MacOS/factorio" 
+   0.006 Config path: /Users/james/Library/Application Support/factorio/config/config.ini
+   0.006 Read data path: /Applications/factorio.app/Contents/data
+   0.006 Write data path: /Users/james/Library/Application Support/factorio [74014/399589MB]
+   0.006 Binaries path: /Applications/factorio.app/Contents
+   0.054 System info: [CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, 16 cores, RAM: 40960 MB]
+   0.054 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmW] [Lang: en]
+   0.176 Available displays: 3
+   0.176  [0]: iMac - {[0,0], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x42baca4(0x01)}
+   0.176  [1]: LEN P27h-10 - {[-2560,192], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x2b985ef5(0x02)}
+   0.176  [2]: Studio Display - {[2560,227], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x42b56ba(0x04)}
+   1.277 Initialised OpenGL:[0] AMD Radeon Pro 5500 XT OpenGL Engine; driver: 4.1 ATI-4.9.48
+   1.277   [Size] Window: 2560x1440, Backbuffer: 5120x2880
+   1.277   [Extensions] s3tc:yes; KHR_debug:NO; ARB_clear_texture:NO, ARB_copy_image:NO
+   1.277   [Version] 4.1
+   1.277 Graphics settings preset: very-high
+   1.277   Dedicated video memory size 8176 MB (detected from AMD Radeon Pro 5500 XT Compute Engine; VendorID: 0x1021e00)
+   1.386 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
+   1.386                   [Max threads (load/render): 32/16] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
+   1.586 [Audio] Backend:SDL(default); Driver:coreaudio, Device:Default device, Depth:16, Channels:2, Frequency:44100
+   1.753 Loading mod settings jetpack 0.3.8 (settings.lua)
+   1.754 Loading mod settings Squeak Through 1.8.2 (settings.lua)
+   1.755 Loading mod settings alien-biomes 0.6.8 (settings.lua)
+   1.757 Loading mod core 0.0.0 (data.lua)
+   1.793 Loading mod base 1.1.74 (data.lua)
+   1.939 Loading mod alien-biomes-hr-terrain 0.6.1 (data.lua)
+   1.945 Loading mod jetpack 0.3.8 (data.lua)
+   1.952 Loading mod alien-biomes 0.6.8 (data.lua)
+   1.953 Script @__alien-biomes__/data.lua:4: Log mods once: {
+  ["Squeak Through"] = "1.8.2",
+  ["alien-biomes"] = "0.6.8",
+  ["alien-biomes-hr-terrain"] = "0.6.1",
+  base = "1.1.74",
+  jetpack = "0.3.8"
+}
+   2.149 Loading mod base 1.1.74 (data-updates.lua)
+   2.158 Loading mod Squeak Through 1.8.2 (data-updates.lua)
+   2.169 Loading mod alien-biomes 0.6.8 (data-updates.lua)
+   2.178 Loading mod jetpack 0.3.8 (data-final-fixes.lua)
+   2.190 Loading mod alien-biomes 0.6.8 (data-final-fixes.lua)
+   2.196 Script @__alien-biomes__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [vehicle-layer] set to layer [layer-13]
+   2.219 Script @__alien-biomes__/data-final-fixes.lua:300: Setting decals to layer 163
+   2.219 Script @__alien-biomes__/data-final-fixes.lua:407: logging tile layers
+   2.227 Script @__alien-biomes__/data-final-fixes.lua:412: {
+  ["layer 0"] = "out-of-map",
+  ["layer 1"] = "water, water-green",
+  ["layer 2"] = "deepwater, deepwater-green",
+  ["layer 3"] = "water-wube",
+  ["layer 4"] = "water-shallow",
+  ["layer 5"] = "water-mud",
+  ["layer 6"] = "grass-1",
+  ["layer 7"] = "mineral-purple-dirt-1",
+  ["layer 8"] = "mineral-purple-dirt-2",
+  ["layer 9"] = "mineral-purple-dirt-3",
+  ["layer 10"] = "mineral-purple-dirt-4",
+  ["layer 11"] = "mineral-purple-dirt-5",
+  ["layer 12"] = "mineral-purple-dirt-6",
+  ["layer 13"] = "mineral-purple-sand-1",
+  ["layer 14"] = "mineral-purple-sand-2",
+  ["layer 15"] = "mineral-purple-sand-3",
+  ["layer 16"] = "mineral-violet-dirt-1",
+  ["layer 17"] = "mineral-violet-dirt-2",
+  ["layer 18"] = "mineral-violet-dirt-3",
+  ["layer 19"] = "mineral-violet-dirt-4",
+  ["layer 20"] = "mineral-violet-dirt-5",
+  ["layer 21"] = "mineral-violet-dirt-6",
+  ["layer 22"] = "mineral-violet-sand-1",
+  ["layer 23"] = "mineral-violet-sand-2",
+  ["layer 24"] = "mineral-violet-sand-3",
+  ["layer 25"] = "mineral-red-dirt-1",
+  ["layer 26"] = "mineral-red-dirt-2",
+  ["layer 27"] = "mineral-red-dirt-3",
+  ["layer 28"] = "mineral-red-dirt-4",
+  ["layer 29"] = "mineral-red-dirt-5",
+  ["layer 30"] = "mineral-red-dirt-6",
+  ["layer 31"] = "mineral-red-sand-1",
+  ["layer 32"] = "mineral-red-sand-2",
+  ["layer 33"] = "mineral-red-sand-3",
+  ["layer 34"] = "mineral-brown-dirt-1",
+  ["layer 35"] = "mineral-brown-dirt-2",
+  ["layer 36"] = "mineral-brown-dirt-3",
+  ["layer 37"] = "mineral-brown-dirt-4",
+  ["layer 38"] = "mineral-brown-dirt-5",
+  ["layer 39"] = "mineral-brown-dirt-6",
+  ["layer 40"] = "mineral-brown-sand-1",
+  ["layer 41"] = "mineral-brown-sand-2",
+  ["layer 42"] = "mineral-brown-sand-3",
+  ["layer 43"] = "mineral-tan-dirt-1",
+  ["layer 44"] = "mineral-tan-dirt-2",
+  ["layer 45"] = "mineral-tan-dirt-3",
+  ["layer 46"] = "mineral-tan-dirt-4",
+  ["layer 47"] = "mineral-tan-dirt-5",
+  ["layer 48"] = "mineral-tan-dirt-6",
+  ["layer 49"] = "mineral-tan-sand-1",
+  ["layer 50"] = "mineral-tan-sand-2",
+  ["layer 51"] = "mineral-tan-sand-3",
+  ["layer 52"] = "mineral-aubergine-dirt-1",
+  ["layer 53"] = "mineral-aubergine-dirt-2",
+  ["layer 54"] = "mineral-aubergine-dirt-3",
+  ["layer 55"] = "mineral-aubergine-dirt-4",
+  ["layer 56"] = "mineral-aubergine-dirt-5",
+  ["layer 57"] = "mineral-aubergine-dirt-6",
+  ["layer 58"] = "mineral-aubergine-sand-1",
+  ["layer 59"] = "mineral-aubergine-sand-2",
+  ["layer 60"] = "mineral-aubergine-sand-3",
+  ["layer 61"] = "mineral-dustyrose-dirt-1",
+  ["layer 62"] = "mineral-dustyrose-dirt-2",
+  ["layer 63"] = "mineral-dustyrose-dirt-3",
+  ["layer 64"] = "mineral-dustyrose-dirt-4",
+  ["layer 65"] = "mineral-dustyrose-dirt-5",
+  ["layer 66"] = "mineral-dustyrose-dirt-6",
+  ["layer 67"] = "mineral-dustyrose-sand-1",
+  ["layer 68"] = "mineral-dustyrose-sand-2",
+  ["layer 69"] = "mineral-dustyrose-sand-3",
+  ["layer 70"] = "mineral-beige-dirt-1",
+  ["layer 71"] = "mineral-beige-dirt-2",
+  ["layer 72"] = "mineral-beige-dirt-3",
+  ["layer 73"] = "mineral-beige-dirt-4",
+  ["layer 74"] = "mineral-beige-dirt-5",
+  ["layer 75"] = "mineral-beige-dirt-6",
+  ["layer 76"] = "mineral-beige-sand-1",
+  ["layer 77"] = "mineral-beige-sand-2",
+  ["layer 78"] = "mineral-beige-sand-3",
+  ["layer 79"] = "mineral-cream-dirt-1",
+  ["layer 80"] = "mineral-cream-dirt-2",
+  ["layer 81"] = "mineral-cream-dirt-3",
+  ["layer 82"] = "mineral-cream-dirt-4",
+  ["layer 83"] = "mineral-cream-dirt-5",
+  ["layer 84"] = "mineral-cream-dirt-6",
+  ["layer 85"] = "mineral-cream-sand-1",
+  ["layer 86"] = "mineral-cream-sand-2",
+  ["layer 87"] = "mineral-cream-sand-3",
+  ["layer 88"] = "mineral-black-dirt-1",
+  ["layer 89"] = "mineral-black-dirt-2",
+  ["layer 90"] = "mineral-black-dirt-3",
+  ["layer 91"] = "mineral-black-dirt-4",
+  ["layer 92"] = "mineral-black-dirt-5",
+  ["layer 93"] = "mineral-black-dirt-6",
+  ["layer 94"] = "mineral-black-sand-1",
+  ["layer 95"] = "mineral-black-sand-2",
+  ["layer 96"] = "mineral-black-sand-3",
+  ["layer 97"] = "mineral-grey-dirt-1",
+  ["layer 98"] = "mineral-grey-dirt-2",
+  ["layer 99"] = "mineral-grey-dirt-3",
+  ["layer 100"] = "mineral-grey-dirt-4",
+  ["layer 101"] = "mineral-grey-dirt-5",
+  ["layer 102"] = "mineral-grey-dirt-6",
+  ["layer 103"] = "mineral-grey-sand-1",
+  ["layer 104"] = "mineral-grey-sand-2",
+  ["layer 105"] = "mineral-grey-sand-3",
+  ["layer 106"] = "mineral-white-dirt-1",
+  ["layer 107"] = "mineral-white-dirt-2",
+  ["layer 108"] = "mineral-white-dirt-3",
+  ["layer 109"] = "mineral-white-dirt-4",
+  ["layer 110"] = "mineral-white-dirt-5",
+  ["layer 111"] = "mineral-white-dirt-6",
+  ["layer 112"] = "mineral-white-sand-1",
+  ["layer 113"] = "mineral-white-sand-2",
+  ["layer 114"] = "mineral-white-sand-3",
+  ["layer 115"] = "vegetation-turquoise-grass-1",
+  ["layer 116"] = "vegetation-turquoise-grass-2",
+  ["layer 117"] = "vegetation-green-grass-1",
+  ["layer 118"] = "vegetation-green-grass-2",
+  ["layer 119"] = "vegetation-green-grass-3",
+  ["layer 120"] = "vegetation-green-grass-4",
+  ["layer 121"] = "vegetation-olive-grass-1",
+  ["layer 122"] = "vegetation-olive-grass-2",
+  ["layer 123"] = "vegetation-yellow-grass-1",
+  ["layer 124"] = "vegetation-yellow-grass-2",
+  ["layer 125"] = "vegetation-orange-grass-1",
+  ["layer 126"] = "vegetation-orange-grass-2",
+  ["layer 127"] = "vegetation-red-grass-1",
+  ["layer 128"] = "vegetation-red-grass-2",
+  ["layer 129"] = "vegetation-violet-grass-1",
+  ["layer 130"] = "vegetation-violet-grass-2",
+  ["layer 131"] = "vegetation-purple-grass-1",
+  ["layer 132"] = "vegetation-purple-grass-2",
+  ["layer 133"] = "vegetation-mauve-grass-1",
+  ["layer 134"] = "vegetation-mauve-grass-2",
+  ["layer 135"] = "vegetation-blue-grass-1",
+  ["layer 136"] = "vegetation-blue-grass-2",
+  ["layer 137"] = "volcanic-orange-heat-1",
+  ["layer 138"] = "volcanic-orange-heat-2",
+  ["layer 139"] = "volcanic-orange-heat-3",
+  ["layer 140"] = "volcanic-orange-heat-4",
+  ["layer 141"] = "volcanic-green-heat-1",
+  ["layer 142"] = "volcanic-green-heat-2",
+  ["layer 143"] = "volcanic-green-heat-3",
+  ["layer 144"] = "volcanic-green-heat-4",
+  ["layer 145"] = "volcanic-blue-heat-1",
+  ["layer 146"] = "volcanic-blue-heat-2",
+  ["layer 147"] = "volcanic-blue-heat-3",
+  ["layer 148"] = "volcanic-blue-heat-4",
+  ["layer 149"] = "volcanic-purple-heat-1",
+  ["layer 150"] = "volcanic-purple-heat-2",
+  ["layer 151"] = "volcanic-purple-heat-3",
+  ["layer 152"] = "volcanic-purple-heat-4",
+  ["layer 153"] = "frozen-snow-0",
+  ["layer 154"] = "frozen-snow-1",
+  ["layer 155"] = "frozen-snow-2",
+  ["layer 156"] = "frozen-snow-3",
+  ["layer 157"] = "frozen-snow-4",
+  ["layer 158"] = "frozen-snow-5",
+  ["layer 159"] = "frozen-snow-6",
+  ["layer 160"] = "frozen-snow-7",
+  ["layer 161"] = "frozen-snow-8",
+  ["layer 162"] = "frozen-snow-9",
+  ["layer 163"] = "landfill",
+  ["layer 164"] = "tile-unknown",
+  ["layer 165"] = "sand-1",
+  ["layer 166"] = "sand-2",
+  ["layer 167"] = "sand-3",
+  ["layer 168"] = "red-desert-1",
+  ["layer 169"] = "red-desert-2",
+  ["layer 170"] = "red-desert-3",
+  ["layer 171"] = "dry-dirt",
+  ["layer 172"] = "dirt-1",
+  ["layer 173"] = "dirt-2",
+  ["layer 174"] = "dirt-3",
+  ["layer 175"] = "dirt-4",
+  ["layer 176"] = "dirt-5",
+  ["layer 177"] = "dirt-6",
+  ["layer 178"] = "dirt-7",
+  ["layer 179"] = "grass-2",
+  ["layer 180"] = "grass-3",
+  ["layer 181"] = "grass-4",
+  ["layer 182"] = "red-desert-0",
+  ["layer 183"] = "nuclear-ground",
+  ["layer 184"] = "tutorial-grid",
+  ["layer 185"] = "stone-path",
+  ["layer 186"] = "concrete",
+  ["layer 187"] = "hazard-concrete-left, hazard-concrete-right",
+  ["layer 188"] = "refined-concrete",
+  ["layer 189"] = "refined-hazard-concrete-left, refined-hazard-concrete-right",
+  ["layer 190"] = "red-refined-concrete",
+  ["layer 191"] = "lab-dark-1",
+  ["layer 192"] = "lab-dark-2",
+  ["layer 193"] = "lab-white",
+  ["layer 194"] = "green-refined-concrete",
+  ["layer 195"] = "blue-refined-concrete",
+  ["layer 196"] = "orange-refined-concrete",
+  ["layer 197"] = "yellow-refined-concrete",
+  ["layer 198"] = "pink-refined-concrete",
+  ["layer 199"] = "purple-refined-concrete",
+  ["layer 200"] = "black-refined-concrete",
+  ["layer 201"] = "brown-refined-concrete",
+  ["layer 202"] = "cyan-refined-concrete",
+  ["layer 203"] = "acid-refined-concrete"
+}
+   2.343 Checksum for core: 870127790
+   2.343 Checksum of base: 4211423066
+   2.343 Checksum of alien-biomes-hr-terrain: 2010945986
+   2.343 Checksum of jetpack: 261709526
+   2.343 Checksum of Squeak Through: 2759453103
+   2.343 Checksum of alien-biomes: 793539720
+   2.613 Prototype list checksum: 597804193
+   2.693 Loading sounds...
+   2.941 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1671743993
+   2.941 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+   3.138 Initial atlas bitmap size is 16384
+   3.153 Created atlas bitmap 16384x16360 [none]
+   3.154 Created atlas bitmap 16384x13472 [none]
+   3.154 Created atlas bitmap 16384x4972 [decal]
+   3.155 Created atlas bitmap 16384x5760 [low-object]
+   3.155 Created atlas bitmap 16384x4048 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   3.159 Created atlas bitmap 16384x16304 [terrain, mipmap, linear-minification, linear-mip-level]
+   3.159 Created atlas bitmap 16384x5872 [terrain, mipmap, linear-minification, linear-mip-level]
+   3.159 Created atlas bitmap 8192x1920 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   3.159 Created atlas bitmap 4096x1840 [smoke, mipmap, linear-minification, linear-magnification]
+   3.159 Created atlas bitmap 8192x3024 [mipmap]
+   3.159 Created atlas bitmap 8192x2272 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   3.159 Created atlas bitmap 8192x1632 [alpha-mask]
+   3.161 Created atlas bitmap 16384x14800 [shadow, linear-magnification, alpha-mask]
+   3.161 Created atlas bitmap 16384x4016 [shadow, mipmap, linear-magnification, alpha-mask]
+   3.161 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   3.232 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   5.097 Parallel Sprite Loader initialized (threads: 15)
+  15.945 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  15.945 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  15.945 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  15.945 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  15.945 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  15.945 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  15.945 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  15.945 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  15.997 Sprites loaded
+  16.128 Generated mipmaps (4) for atlas [3] of size 16384x5760   
+  16.192 Generated mipmaps (3) for atlas [4] of size 16384x4048   
+  16.341 Generated mipmaps (3) for atlas [5] of size 16384x16304   
+  16.402 Generated mipmaps (3) for atlas [6] of size 16384x5872   
+  16.413 Generated mipmaps (3) for atlas [7] of size 8192x1920   
+  16.423 Generated mipmaps (3) for atlas [8] of size 4096x1840   
+  16.577 Generated mipmaps (3) for atlas [9] of size 8192x3024   
+  17.628 Generated mipmaps (5) for atlas [10] of size 8192x2272   <total: 1050.56, render: 15.15, copy-to-host: 1006.19, convert: 16.86, update: 12.30>
+  18.002 Generated mipmaps (3) for atlas [13] of size 16384x4016   
+  18.505 Custom mipmaps uploaded.
+  18.992 Custom inputs active: 1
+  19.842 Factorio initialised
+  19.963 Info HttpSharedState.cpp:54: Downloading https://updater.factorio.com/updater/get-available-versions?username=jpericles&token=<private>&apiVersion=2
+  20.657 0 packages available to download (experimental updates disabled).
+  38.959 Loading level.dat: 1618743 bytes.
+  38.959 Info Scenario.cpp:199: Map version 1.1.74-1
+  39.024 Checksum for script /Users/james/Library/Application Support/factorio/temp/currently-playing/control.lua: 2881393120
+  39.036 Checksum for script __jetpack__/control.lua: 2363448258
+  39.037 Checksum for script __alien-biomes__/control.lua: 1814481397
+  45.144 Info AppManagerStates.cpp:1903: Saving finished
+  46.914 Quitting: user-quit.
+  47.174 Goodbye

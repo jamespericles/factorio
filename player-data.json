@@ -522,7 +522,7 @@
   "last-played": 
   {
     "type": "single-player",
-    "save-name": "New World"
+    "save-name": "test"
   },
   "service-username": "jpericles",
   "service-token": "061ff8a21c5c6f23da15b9dcf5d06e",
@@ -619,17 +619,6 @@
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "biter_base_artillery",
-    "early_smelting",
-    "biter_base_steamrolled",
-    "chase_player",
-    "train_junction",
-    "big_defense",
-    "nuclear_power",
-    "logistic_robots",
-    "biter_base_player_attack",
-    "artillery",
-    "forest_fire",
     "lab",
     "mining_defense",
     "spider_ponds",
@@ -639,6 +628,9 @@
     "brutal_defeat",
     "solar_power_construction",
     "biter_base_spidertron",
-    "biter_base_laser_defense"
+    "biter_base_laser_defense",
+    "burner_city",
+    "biter_base_artillery",
+    "forest_fire"
   ]
 }
