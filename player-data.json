@@ -286,7 +286,9 @@
           "triggered": true
         },
         
-        {}
+        {
+          "triggered": true
+        }
       ]
     },
     "pump-connection": 
@@ -522,7 +524,7 @@
   "last-played": 
   {
     "type": "single-player",
-    "save-name": "test"
+    "save-name": "New World"
   },
   "service-username": "jpericles",
   "service-token": "061ff8a21c5c6f23da15b9dcf5d06e",
@@ -614,23 +616,12 @@
     "game_version": "1.1.74",
     "build_version": 60256,
     "build_mode": "full",
-    "platform": "mac-x64"
+    "platform": "mac-arm64"
   },
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "lab",
-    "mining_defense",
-    "spider_ponds",
-    "oil_refinery",
-    "oil_pumpjacks",
     "train_station",
-    "brutal_defeat",
-    "solar_power_construction",
-    "biter_base_spidertron",
-    "biter_base_laser_defense",
-    "burner_city",
-    "biter_base_artillery",
-    "forest_fire"
+    "logistic_robots"
   ]
 }

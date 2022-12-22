@@ -19,8 +19,23 @@
     },
     
     {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
       "name": "jetpack",
       "enabled": true
+    },
+    
+    {
+      "name": "Krastorio2",
+      "enabled": false
+    },
+    
+    {
+      "name": "Krastorio2Assets",
+      "enabled": false
     },
     
     {
