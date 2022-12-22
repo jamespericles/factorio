@@ -286,9 +286,7 @@
           "triggered": true
         },
         
-        {
-          "triggered": true
-        }
+        {}
       ]
     },
     "pump-connection": 
@@ -616,7 +614,7 @@
     "game_version": "1.1.74",
     "build_version": 60256,
     "build_mode": "full",
-    "platform": "mac-arm64"
+    "platform": "mac-x64"
   },
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
@@ -637,6 +635,10 @@
     "spider_ponds",
     "oil_refinery",
     "oil_pumpjacks",
-    "train_station"
+    "train_station",
+    "brutal_defeat",
+    "solar_power_construction",
+    "biter_base_spidertron",
+    "biter_base_laser_defense"
   ]
 }
