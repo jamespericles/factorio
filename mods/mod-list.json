@@ -1,0 +1,46 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes-hr-terrain",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": false
+    },
+    
+    {
+      "name": "jetpack",
+      "enabled": true
+    },
+    
+    {
+      "name": "Krastorio2",
+      "enabled": false
+    },
+    
+    {
+      "name": "Krastorio2Assets",
+      "enabled": false
+    },
+    
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    }
+  ]
+}
