@@ -286,9 +286,7 @@
           "triggered": true
         },
         
-        {
-          "triggered": true
-        }
+        {}
       ]
     },
     "pump-connection": 
@@ -622,6 +620,9 @@
   "main-menu-simulations-played": 
   [
     "train_station",
-    "logistic_robots"
+    "logistic_robots",
+    "biter_base_artillery",
+    "burner_city",
+    "artillery"
   ]
 }
