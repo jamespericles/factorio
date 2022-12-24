@@ -29,17 +29,17 @@
     },
     
     {
-      "name": "Krastorio2",
-      "enabled": false
-    },
-    
-    {
-      "name": "Krastorio2Assets",
-      "enabled": false
+      "name": "Nanobots",
+      "enabled": true
     },
     
     {
       "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "stdlib",
       "enabled": true
     }
   ]

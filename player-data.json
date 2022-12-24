@@ -60,14 +60,8 @@
     },
     "rotating-assemblers": 
     {
-      "status": "locked",
-      "conditions": 
-      [
-        
-        {},
-        
-        {}
-      ]
+      "status": "dependencies-not-met",
+      "triggered": true
     },
     "circuit-network": 
     {
@@ -156,7 +150,7 @@
     },
     "copy-paste-trains": 
     {
-      "status": "locked"
+      "status": "suggested"
     },
     "copy-paste-filters": 
     {
@@ -212,56 +206,18 @@
     },
     "rail-building": 
     {
-      "status": "locked",
-      "conditions": 
-      [
-        
-        {},
-        
-        {}
-      ]
+      "status": "dependencies-not-met",
+      "triggered": true
     },
     "train-stops": 
     {
-      "status": "locked",
-      "conditions": 
-      [
-        
-        {},
-        
-        {
-          "conditions": 
-          [
-            
-            {
-              "triggered": true
-            },
-            
-            {}
-          ]
-        }
-      ]
+      "status": "dependencies-not-met",
+      "triggered": true
     },
     "rail-signals-basic": 
     {
-      "status": "locked",
-      "conditions": 
-      [
-        
-        {},
-        
-        {
-          "conditions": 
-          [
-            
-            {
-              "triggered": true
-            },
-            
-            {}
-          ]
-        }
-      ]
+      "status": "dependencies-not-met",
+      "triggered": true
     },
     "rail-signals-advanced": 
     {
@@ -276,41 +232,18 @@
     },
     "gate-over-rail": 
     {
-      "status": "locked",
-      "conditions": 
-      [
-        
-        {},
-        
-        {
-          "triggered": true
-        },
-        
-        {}
-      ]
+      "status": "dependencies-not-met",
+      "triggered": true
     },
     "pump-connection": 
     {
-      "status": "locked",
-      "conditions": 
-      [
-        
-        {},
-        
-        {
-          "conditions": 
-          [
-            
-            {},
-            
-            {}
-          ]
-        }
-      ]
+      "status": "dependencies-not-met",
+      "triggered": true
     },
     "train-stop-same-name": 
     {
-      "status": "locked"
+      "status": "locked",
+      "count": 2
     },
     "logistic-network": 
     {
@@ -360,7 +293,7 @@
         [
           
           {
-            "count": 4
+            "triggered": true
           },
           
           {}
@@ -619,10 +552,23 @@
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "train_station",
-    "logistic_robots",
+    "train_junction",
+    "lab",
+    "early_smelting",
+    "spider_ponds",
+    "brutal_defeat",
+    "nuclear_power",
+    "mining_defense",
+    "solar_power_construction",
+    "biter_base_steamrolled",
+    "oil_refinery",
+    "chase_player",
+    "oil_pumpjacks",
+    "forest_fire",
     "biter_base_artillery",
-    "burner_city",
+    "big_defense",
+    "biter_base_player_attack",
+    "biter_base_laser_defense",
     "artillery"
   ]
 }

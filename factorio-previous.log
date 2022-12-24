@@ -1,48 +1,53 @@
-   0.000 2022-12-22 20:44:26; Factorio 1.1.74 (build 60256, mac-arm64, full)
-   0.002 Operating system: OS X 13.0.0
-   0.002 Program arguments: "/Applications/factorio.app/Contents/MacOS/factorio" 
-   0.002 Config path: /Users/amandahartman/Library/Application Support/factorio/config/config.ini
-   0.002 Read data path: /Applications/factorio.app/Contents/data
-   0.002 Write data path: /Users/amandahartman/Library/Application Support/factorio [160840/233752MB]
-   0.002 Binaries path: /Applications/factorio.app/Contents
-   0.034 System info: [CPU: arm64, 8 cores, RAM: 24576 MB]
-   0.034 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 0] [Screen: 255] [Special: lmW] [Lang: en]
-   0.074 Available displays: 1
-   0.074  [0]: 0 - {[0,0], 1470x956, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x0001(0x01)}
-   1.030 Initialised OpenGL:[0] Apple M2; driver: 4.1 Metal - 83
-   1.030   [Extensions] s3tc:yes; KHR_debug:NO; ARB_clear_texture:NO, ARB_copy_image:NO
-   1.030   [Version] 4.1
-   1.031 Graphics settings preset: very-high
-   1.031   Dedicated video memory size 16384 MB (detected from Apple M2; VendorID: 0x1027f00)
-   1.097 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
-   1.097                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
-   1.177 [Audio] Backend:SDL(default); Driver:coreaudio, Device:Default device, Depth:16, Channels:2, Frequency:44100
-   1.328 Loading mod settings jetpack 0.3.8 (settings.lua)
-   1.328 Loading mod settings Squeak Through 1.8.2 (settings.lua)
-   1.328 Loading mod settings alien-biomes 0.6.8 (settings.lua)
-   1.329 Loading mod core 0.0.0 (data.lua)
-   1.357 Loading mod base 1.1.74 (data.lua)
-   1.457 Loading mod alien-biomes-hr-terrain 0.6.1 (data.lua)
-   1.465 Loading mod flib 0.11.2 (data.lua)
-   1.472 Loading mod jetpack 0.3.8 (data.lua)
-   1.482 Loading mod alien-biomes 0.6.8 (data.lua)
-   1.483 Script @__alien-biomes__/data.lua:4: Log mods once: {
+   0.000 2022-12-23 23:08:24; Factorio 1.1.74 (build 60256, mac-arm64, full)
+   0.001 Operating system: OS X 13.0.0
+   0.001 Program arguments: "/Applications/factorio.app/Contents/MacOS/factorio" 
+   0.001 Config path: /Users/james/Library/Application Support/factorio/config/config.ini
+   0.001 Read data path: /Applications/factorio.app/Contents/data
+   0.001 Write data path: /Users/james/Library/Application Support/factorio [114649/233752MB]
+   0.001 Binaries path: /Applications/factorio.app/Contents
+   0.038 System info: [CPU: arm64, 8 cores, RAM: 24576 MB]
+   0.038 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 0] [Screen: 255] [Special: lmW] [Lang: en]
+   0.087 Available displays: 1
+   0.087  [0]: 0 - {[0,0], 1470x956, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x0001(0x01)}
+   1.057 Initialised OpenGL:[0] Apple M2; driver: 4.1 Metal - 83
+   1.057   [Extensions] s3tc:yes; KHR_debug:NO; ARB_clear_texture:NO, ARB_copy_image:NO
+   1.057   [Version] 4.1
+   1.057 Graphics settings preset: very-high
+   1.057   Dedicated video memory size 16384 MB (detected from Apple M2; VendorID: 0x1027f00)
+   1.126 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
+   1.126                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
+   1.214 [Audio] Backend:SDL(default); Driver:coreaudio, Device:Default device, Depth:16, Channels:2, Frequency:44100
+   1.341 Loading mod settings jetpack 0.3.8 (settings.lua)
+   1.341 Loading mod settings Squeak Through 1.8.2 (settings.lua)
+   1.341 Loading mod settings alien-biomes 0.6.8 (settings.lua)
+   1.341 Loading mod settings Nanobots 3.2.19 (settings.lua)
+   1.342 Loading mod core 0.0.0 (data.lua)
+   1.366 Loading mod base 1.1.74 (data.lua)
+   1.460 Loading mod alien-biomes-hr-terrain 0.6.1 (data.lua)
+   1.467 Loading mod flib 0.12.3 (data.lua)
+   1.474 Loading mod jetpack 0.3.8 (data.lua)
+   1.483 Loading mod alien-biomes 0.6.8 (data.lua)
+   1.485 Script @__alien-biomes__/data.lua:4: Log mods once: {
+  Nanobots = "3.2.19",
   ["Squeak Through"] = "1.8.2",
   ["alien-biomes"] = "0.6.8",
   ["alien-biomes-hr-terrain"] = "0.6.1",
   base = "1.1.74",
-  flib = "0.11.2",
-  jetpack = "0.3.8"
+  flib = "0.12.3",
+  jetpack = "0.3.8",
+  stdlib = "1.4.8"
 }
-   1.639 Loading mod base 1.1.74 (data-updates.lua)
-   1.658 Loading mod Squeak Through 1.8.2 (data-updates.lua)
-   1.674 Loading mod alien-biomes 0.6.8 (data-updates.lua)
-   1.688 Loading mod jetpack 0.3.8 (data-final-fixes.lua)
-   1.702 Loading mod alien-biomes 0.6.8 (data-final-fixes.lua)
-   1.706 Script @__alien-biomes__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [vehicle-layer] set to layer [layer-13]
-   1.723 Script @__alien-biomes__/data-final-fixes.lua:300: Setting decals to layer 163
-   1.724 Script @__alien-biomes__/data-final-fixes.lua:407: logging tile layers
-   1.727 Script @__alien-biomes__/data-final-fixes.lua:412: {
+   1.608 Loading mod Nanobots 3.2.19 (data.lua)
+   1.624 Loading mod base 1.1.74 (data-updates.lua)
+   1.635 Loading mod Squeak Through 1.8.2 (data-updates.lua)
+   1.647 Loading mod alien-biomes 0.6.8 (data-updates.lua)
+   1.657 Loading mod Nanobots 3.2.19 (data-updates.lua)
+   1.672 Loading mod jetpack 0.3.8 (data-final-fixes.lua)
+   1.684 Loading mod alien-biomes 0.6.8 (data-final-fixes.lua)
+   1.688 Script @__alien-biomes__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [vehicle-layer] set to layer [layer-13]
+   1.701 Script @__alien-biomes__/data-final-fixes.lua:300: Setting decals to layer 163
+   1.701 Script @__alien-biomes__/data-final-fixes.lua:407: logging tile layers
+   1.705 Script @__alien-biomes__/data-final-fixes.lua:412: {
   ["layer 0"] = "out-of-map",
   ["layer 1"] = "water, water-green",
   ["layer 2"] = "deepwater, deepwater-green",
@@ -248,78 +253,92 @@
   ["layer 202"] = "cyan-refined-concrete",
   ["layer 203"] = "acid-refined-concrete"
 }
-   1.815 Checksum for core: 870127790
-   1.815 Checksum of base: 4211423066
-   1.815 Checksum of alien-biomes-hr-terrain: 2010945986
-   1.815 Checksum of flib: 2547089668
-   1.815 Checksum of jetpack: 261709526
-   1.815 Checksum of Squeak Through: 2759453103
-   1.815 Checksum of alien-biomes: 793539720
-   1.973 Prototype list checksum: 597804193
-   2.017 Loading sounds...
-   2.049 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1671745024
-   2.049 Info PlayerData.cpp:78: Cloud player-data.json unavailable
-   2.235 Initial atlas bitmap size is 16384
-   2.249 Created atlas bitmap 16384x16352 [none]
-   2.251 Created atlas bitmap 16384x13440 [none]
-   2.251 Created atlas bitmap 16384x4968 [decal]
-   2.251 Created atlas bitmap 16384x5760 [low-object]
-   2.251 Created atlas bitmap 16384x4032 [mipmap, linear-minification, linear-magnification, linear-mip-level]
-   2.255 Created atlas bitmap 16384x16352 [terrain, mipmap, linear-minification, linear-mip-level]
-   2.256 Created atlas bitmap 16384x5760 [terrain, mipmap, linear-minification, linear-mip-level]
-   2.256 Created atlas bitmap 8192x1920 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
-   2.256 Created atlas bitmap 4096x1840 [smoke, mipmap, linear-minification, linear-magnification]
-   2.256 Created atlas bitmap 8192x3024 [mipmap]
-   2.256 Created atlas bitmap 8192x2336 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
-   2.256 Created atlas bitmap 8192x1632 [alpha-mask]
-   2.257 Created atlas bitmap 16384x14796 [shadow, linear-magnification, alpha-mask]
-   2.257 Created atlas bitmap 16384x4016 [shadow, mipmap, linear-magnification, alpha-mask]
-   2.257 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
-   2.260 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 36.09, BC3 PSNR: 33.82
-   2.974 Parallel Sprite Loader initialized (threads: 7)
-  12.091 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  12.091 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  12.091 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  12.091 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  12.091 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  12.091 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  12.091 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  12.092 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  12.131 Sprites loaded
-  12.153 Generated mipmaps (4) for atlas [3] of size 16384x5760   
-  12.163 Generated mipmaps (3) for atlas [4] of size 16384x4032   
-  12.194 Generated mipmaps (3) for atlas [5] of size 16384x16352   
-  12.206 Generated mipmaps (3) for atlas [6] of size 16384x5760   
-  12.208 Generated mipmaps (3) for atlas [7] of size 8192x1920   
-  12.214 Generated mipmaps (3) for atlas [8] of size 4096x1840   
-  12.265 Generated mipmaps (3) for atlas [9] of size 8192x3024   
-  12.282 Generated mipmaps (5) for atlas [10] of size 8192x2336   
-  12.288 Generated mipmaps (3) for atlas [13] of size 16384x4016   
-  12.293 Custom mipmaps uploaded.
-  12.296 Custom inputs active: 1
-  12.396 Factorio initialised
-  12.397 Info HttpSharedState.cpp:54: Downloading https://updater.factorio.com/updater/get-available-versions?username=jpericles&token=<private>&apiVersion=2
-  12.841 0 packages available to download (experimental updates disabled).
-  39.569 Loading map /Users/amandahartman/Library/Application Support/factorio/saves/New World.zip: 4986043 bytes.
-  39.593 Loading level.dat: 11294287 bytes.
-  39.597 Info Scenario.cpp:199: Map version 1.1.74-1
-  39.673 Loading script.dat: 1666 bytes.
-  39.674 Checksum for script /Users/amandahartman/Library/Application Support/factorio/temp/currently-playing/control.lua: 2881393120
-  39.677 Checksum for script __jetpack__/control.lua: 2363448258
-  39.677 Checksum for script __alien-biomes__/control.lua: 1814481397
- 168.410 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
- 168.585 Info AppManagerStates.cpp:1903: Saving finished
- 477.638 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
- 477.795 Info AppManagerStates.cpp:1903: Saving finished
- 777.804 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
- 777.987 Info AppManagerStates.cpp:1903: Saving finished
-1081.238 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
-1081.441 Info AppManagerStates.cpp:1903: Saving finished
-1929.237 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
-1929.398 Info AppManagerStates.cpp:1903: Saving finished
-2248.738 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
-2248.927 Info AppManagerStates.cpp:1903: Saving finished
-2699.008 Info AppManagerStates.cpp:1903: Saving finished
-64446.875 Info AppManagerStates.cpp:1903: Saving finished
-64451.735 Quitting: window closed.
-64452.000 Goodbye
+   1.772 Checksum for core: 870127790
+   1.772 Checksum of base: 4211423066
+   1.772 Checksum of alien-biomes-hr-terrain: 2010945986
+   1.772 Checksum of flib: 128287970
+   1.772 Checksum of jetpack: 261709526
+   1.772 Checksum of Squeak Through: 2759453103
+   1.772 Checksum of stdlib: 0
+   1.772 Checksum of alien-biomes: 793539720
+   1.772 Checksum of Nanobots: 1360658138
+   1.921 Prototype list checksum: 1358555101
+   1.957 Loading sounds...
+   2.106 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1671858492
+   2.106 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+   2.234 Initial atlas bitmap size is 16384
+   2.245 Created atlas bitmap 16384x16364 [none]
+   2.246 Created atlas bitmap 16384x13488 [none]
+   2.246 Created atlas bitmap 16384x4972 [decal]
+   2.246 Created atlas bitmap 16384x5760 [low-object]
+   2.246 Created atlas bitmap 16384x4032 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.250 Created atlas bitmap 16384x16368 [terrain, mipmap, linear-minification, linear-mip-level]
+   2.250 Created atlas bitmap 16384x5856 [terrain, mipmap, linear-minification, linear-mip-level]
+   2.250 Created atlas bitmap 8192x1920 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   2.250 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   2.250 Created atlas bitmap 8192x3024 [mipmap]
+   2.250 Created atlas bitmap 8192x2352 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.250 Created atlas bitmap 8192x1632 [alpha-mask]
+   2.251 Created atlas bitmap 16384x14816 [shadow, linear-magnification, alpha-mask]
+   2.251 Created atlas bitmap 16384x4016 [shadow, mipmap, linear-magnification, alpha-mask]
+   2.251 Created atlas bitmap 2048x272 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   2.253 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 36.09, BC3 PSNR: 33.82
+   3.710 Parallel Sprite Loader initialized (threads: 7)
+  12.561 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  12.561 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  12.561 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  12.561 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  12.562 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  12.562 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  12.562 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  12.562 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  12.607 Sprites loaded
+  12.632 Generated mipmaps (4) for atlas [3] of size 16384x5760   
+  12.644 Generated mipmaps (3) for atlas [4] of size 16384x4032   
+  12.677 Generated mipmaps (3) for atlas [5] of size 16384x16368   
+  12.689 Generated mipmaps (3) for atlas [6] of size 16384x5856   
+  12.691 Generated mipmaps (3) for atlas [7] of size 8192x1920   
+  12.693 Generated mipmaps (3) for atlas [8] of size 4096x1856   
+  12.744 Generated mipmaps (3) for atlas [9] of size 8192x3024   
+  12.761 Generated mipmaps (5) for atlas [10] of size 8192x2352   
+  12.767 Generated mipmaps (3) for atlas [13] of size 16384x4016   
+  12.772 Custom mipmaps uploaded.
+  12.777 Custom inputs active: 1
+  12.950 Factorio initialised
+  12.951 Info HttpSharedState.cpp:54: Downloading https://updater.factorio.com/updater/get-available-versions?username=jpericles&token=<private>&apiVersion=2
+  22.611 0 packages available to download (experimental updates disabled).
+  65.407 Loading map /Users/james/Library/Application Support/factorio/saves/_autosave3.zip: 5082700 bytes.
+  65.426 Loading level.dat: 12702211 bytes.
+  65.429 Info Scenario.cpp:199: Map version 1.1.74-1
+  65.510 Loading script.dat: 2118 bytes.
+  65.511 Checksum for script /Users/james/Library/Application Support/factorio/temp/currently-playing/control.lua: 2881393120
+  65.515 Checksum for script __jetpack__/control.lua: 2363448258
+  65.515 Checksum for script __alien-biomes__/control.lua: 1814481397
+  65.521 Checksum for script __Nanobots__/control.lua: 1686961069
+ 230.808 Warning WriteFileGuard.cpp:141: Failed to rename /Users/james/Library/Application Support/factorio/config/config.tmp.ini to /Users/james/Library/Application Support/factorio/config/config.ini
+ 230.808 Backup is NOT available.
+ 230.808 Warning WriteFileGuard.cpp:146: Destination path exists: /Users/james/Library/Application Support/factorio/config/config.ini
+ 230.809 Warning WriteFileGuard.cpp:57: Writing /Users/james/Library/Application Support/factorio/config/config.ini failed; previous version (if any) should still be available
+ 230.809 Error GlobalContext.cpp:1791: Couldn't save config: filesystem error: Failed to rename: /Users/james/Library/Application Support/factorio/config/config.tmp.ini. It might be locked by other application.: Permission denied ["/Users/james/Library/Application Support/factorio/config/config.tmp.ini"] ["/Users/james/Library/Application Support/factorio/config/config.ini"]
+ 441.359 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+ 441.539 Info AppManagerStates.cpp:1903: Saving finished
+ 862.675 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+ 862.871 Info AppManagerStates.cpp:1903: Saving finished
+1175.725 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+1175.896 Info AppManagerStates.cpp:1903: Saving finished
+1498.847 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+1499.036 Info AppManagerStates.cpp:1903: Saving finished
+1799.029 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+1799.211 Info AppManagerStates.cpp:1903: Saving finished
+2099.259 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+2099.454 Info AppManagerStates.cpp:1903: Saving finished
+2399.507 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+2399.661 Info AppManagerStates.cpp:1903: Saving finished
+2497.576 Warning WriteFileGuard.cpp:141: Failed to rename /Users/james/Library/Application Support/factorio/saves/New World.tmp.zip to /Users/james/Library/Application Support/factorio/saves/New World.zip
+2497.577 Backup is NOT available.
+2497.577 Warning WriteFileGuard.cpp:146: Destination path exists: /Users/james/Library/Application Support/factorio/saves/New World.zip
+2497.578 Warning WriteFileGuard.cpp:57: Writing /Users/james/Library/Application Support/factorio/saves/New World.zip failed; previous version (if any) should still be available
+2497.578 Error ParallelScenarioSaver.cpp:118: Saving scenario failed: filesystem error: Failed to rename: /Users/james/Library/Application Support/factorio/saves/New World.tmp.zip. It might be locked by other application.: Permission denied ["/Users/james/Library/Application Support/factorio/saves/New World.tmp.zip"] ["/Users/james/Library/Application Support/factorio/saves/New World.zip"]
+2505.227 Info AppManagerStates.cpp:1903: Saving finished
+2507.623 Quitting: user-quit.
+2507.847 Goodbye
