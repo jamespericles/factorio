@@ -9,6 +9,11 @@
     },
     
     {
+      "name": "AfraidOfTheDark",
+      "enabled": true
+    },
+    
+    {
       "name": "alien-biomes",
       "enabled": true
     },
@@ -19,7 +24,22 @@
     },
     
     {
+      "name": "AutoDeconstruct",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
       "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "InfiniteResourcesNormalYieldDepletion",
       "enabled": true
     },
     
@@ -30,6 +50,11 @@
     
     {
       "name": "Nanobots",
+      "enabled": true
+    },
+    
+    {
+      "name": "Power Armor MK3",
       "enabled": true
     },
     
