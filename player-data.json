@@ -311,18 +311,7 @@
     },
     "copy-paste": 
     {
-      "status": "locked",
-      "conditions": 
-      [
-        
-        {
-          "triggered": true
-        },
-        
-        {
-          "elapsed": 71135
-        }
-      ]
+      "status": "suggested"
     },
     "fast-replace": 
     {
@@ -559,6 +548,16 @@
     "biter_base_laser_defense",
     "artillery",
     "burner_city",
-    "train_junction"
+    "train_junction",
+    "solar_power_construction",
+    "early_smelting",
+    "brutal_defeat",
+    "spider_ponds",
+    "biter_base_steamrolled",
+    "mining_defense",
+    "oil_refinery",
+    "nuclear_power",
+    "chase_player",
+    "lab"
   ]
 }
