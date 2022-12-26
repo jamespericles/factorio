@@ -13,7 +13,7 @@ die () {
 [ -d "$factorioBackup" ] || die "Factorio backup directory does not exist"
 
 # validate the current argument was provided, either push or pull
-if [ "$1" = "push" ] || [ "$1" = "pull" ] || [ "$1" = "update" ]; then
+if [ "$1" = "push" ] || [ "$1" = "pull" ]; then
     echo "Valid argument provided"
     # If the argument is push, then copy all files from LOCAL and push to github
     if [ "$1" = "push" ]; then
