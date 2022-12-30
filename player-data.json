@@ -531,7 +531,7 @@
     "game_version": "1.1.74",
     "build_version": 60256,
     "build_mode": "full",
-    "platform": "mac-arm64"
+    "platform": "mac-x64"
   },
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
@@ -547,6 +547,10 @@
     "biter_base_player_attack",
     "biter_base_artillery",
     "artillery",
-    "lab"
+    "lab",
+    "chase_player",
+    "brutal_defeat",
+    "train_junction",
+    "early_smelting"
   ]
 }
