@@ -66,6 +66,11 @@
     {
       "name": "stdlib",
       "enabled": true
+    },
+    
+    {
+      "name": "ZRecycling",
+      "enabled": true
     }
   ]
 }

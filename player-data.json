@@ -242,8 +242,8 @@
     },
     "train-stop-same-name": 
     {
-      "status": "locked",
-      "count": 2
+      "status": "dependencies-not-met",
+      "triggered": true
     },
     "logistic-network": 
     {
@@ -536,25 +536,17 @@
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "train_junction",
-    "solar_power_construction",
-    "early_smelting",
-    "brutal_defeat",
-    "spider_ponds",
-    "biter_base_steamrolled",
-    "mining_defense",
-    "oil_refinery",
-    "nuclear_power",
-    "chase_player",
-    "lab",
-    "biter_base_player_attack",
-    "oil_pumpjacks",
-    "biter_base_spidertron",
+    "biter_base_laser_defense",
     "burner_city",
     "logistic_robots",
-    "big_defense",
-    "biter_base_artillery",
     "forest_fire",
-    "biter_base_laser_defense"
+    "train_station",
+    "oil_pumpjacks",
+    "big_defense",
+    "biter_base_spidertron",
+    "biter_base_player_attack",
+    "biter_base_artillery",
+    "artillery",
+    "lab"
   ]
 }
