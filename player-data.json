@@ -133,8 +133,7 @@
     },
     "electric-pole-connections": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "low-power": 
     {
@@ -537,17 +536,6 @@
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "biter_base_player_attack",
-    "biter_base_spidertron",
-    "oil_pumpjacks",
-    "biter_base_artillery",
-    "big_defense",
-    "forest_fire",
-    "logistic_robots",
-    "train_station",
-    "biter_base_laser_defense",
-    "artillery",
-    "burner_city",
     "train_junction",
     "solar_power_construction",
     "early_smelting",
@@ -558,6 +546,15 @@
     "oil_refinery",
     "nuclear_power",
     "chase_player",
-    "lab"
+    "lab",
+    "biter_base_player_attack",
+    "oil_pumpjacks",
+    "biter_base_spidertron",
+    "burner_city",
+    "logistic_robots",
+    "big_defense",
+    "biter_base_artillery",
+    "forest_fire",
+    "biter_base_laser_defense"
   ]
 }

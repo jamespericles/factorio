@@ -1,42 +1,42 @@
-   0.000 2022-12-25 20:13:52; Factorio 1.1.74 (build 60256, mac-arm64, full)
+   0.000 2022-12-29 15:31:41; Factorio 1.1.74 (build 60256, mac-arm64, full)
    0.002 Operating system: OS X 13.0.0
    0.002 Program arguments: "/Applications/factorio.app/Contents/MacOS/factorio" 
    0.002 Config path: /Users/james/Library/Application Support/factorio/config/config.ini
    0.002 Read data path: /Applications/factorio.app/Contents/data
-   0.002 Write data path: /Users/james/Library/Application Support/factorio [94284/233752MB]
+   0.002 Write data path: /Users/james/Library/Application Support/factorio [93859/233752MB]
    0.002 Binaries path: /Applications/factorio.app/Contents
-   0.038 System info: [CPU: arm64, 8 cores, RAM: 24576 MB]
-   0.038 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 0] [Screen: 255] [Special: lmW] [Lang: en]
-   0.083 Available displays: 1
-   0.083  [0]: 0 - {[0,0], 1470x956, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x0001(0x01)}
-   1.054 Initialised OpenGL:[0] Apple M2; driver: 4.1 Metal - 83
-   1.054   [Extensions] s3tc:yes; KHR_debug:NO; ARB_clear_texture:NO, ARB_copy_image:NO
-   1.054   [Version] 4.1
-   1.054 Graphics settings preset: very-high
-   1.054   Dedicated video memory size 16384 MB (detected from Apple M2; VendorID: 0x1027f00)
-   1.121 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
-   1.121                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
-   1.205 [Audio] Backend:SDL(default); Driver:coreaudio, Device:Default device, Depth:16, Channels:2, Frequency:44100
-   1.320 Loading mod settings InfiniteResourcesNormalYieldDepletion 0.0.4 (settings.lua)
-   1.321 Loading mod settings AutoDeconstruct 0.3.4 (settings.lua)
-   1.321 Loading mod settings even-distribution 1.0.10 (settings.lua)
-   1.321 Loading mod settings jetpack 0.3.8 (settings.lua)
-   1.321 Loading mod settings Power Armor MK3 0.4.1 (settings.lua)
-   1.321 Loading mod settings Squeak Through 1.8.2 (settings.lua)
-   1.321 Loading mod settings alien-biomes 0.6.8 (settings.lua)
-   1.322 Loading mod settings Nanobots 3.2.19 (settings.lua)
-   1.322 Loading mod settings AutoDeconstruct 0.3.4 (settings-final-fixes.lua)
-   1.323 Loading mod core 0.0.0 (data.lua)
-   1.346 Loading mod base 1.1.74 (data.lua)
-   1.438 Loading mod InfiniteResourcesNormalYieldDepletion 0.0.4 (data.lua)
-   1.445 Loading mod AfraidOfTheDark 1.1.1 (data.lua)
-   1.452 Loading mod alien-biomes-hr-terrain 0.6.1 (data.lua)
-   1.460 Loading mod even-distribution 1.0.10 (data.lua)
-   1.467 Loading mod flib 0.12.3 (data.lua)
-   1.474 Loading mod jetpack 0.3.8 (data.lua)
-   1.482 Loading mod Power Armor MK3 0.4.1 (data.lua)
-   1.489 Loading mod alien-biomes 0.6.8 (data.lua)
-   1.491 Script @__alien-biomes__/data.lua:4: Log mods once: {
+   0.033 System info: [CPU: arm64, 8 cores, RAM: 24576 MB]
+   0.033 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 0] [Screen: 255] [Special: lmW] [Lang: en]
+   0.072 Available displays: 1
+   0.072  [0]: 0 - {[0,0], 1470x956, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x0001(0x01)}
+   1.036 Initialised OpenGL:[0] Apple M2; driver: 4.1 Metal - 83
+   1.036   [Extensions] s3tc:yes; KHR_debug:NO; ARB_clear_texture:NO, ARB_copy_image:NO
+   1.036   [Version] 4.1
+   1.036 Graphics settings preset: very-high
+   1.036   Dedicated video memory size 16384 MB (detected from Apple M2; VendorID: 0x1027f00)
+   1.104 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
+   1.104                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
+   1.189 [Audio] Backend:SDL(default); Driver:coreaudio, Device:Default device, Depth:16, Channels:2, Frequency:44100
+   1.316 Loading mod settings InfiniteResourcesNormalYieldDepletion 0.0.4 (settings.lua)
+   1.316 Loading mod settings AutoDeconstruct 0.3.4 (settings.lua)
+   1.316 Loading mod settings even-distribution 1.0.10 (settings.lua)
+   1.317 Loading mod settings jetpack 0.3.8 (settings.lua)
+   1.317 Loading mod settings Power Armor MK3 0.4.1 (settings.lua)
+   1.317 Loading mod settings Squeak Through 1.8.2 (settings.lua)
+   1.317 Loading mod settings alien-biomes 0.6.8 (settings.lua)
+   1.318 Loading mod settings Nanobots 3.2.19 (settings.lua)
+   1.318 Loading mod settings AutoDeconstruct 0.3.4 (settings-final-fixes.lua)
+   1.319 Loading mod core 0.0.0 (data.lua)
+   1.342 Loading mod base 1.1.74 (data.lua)
+   1.436 Loading mod InfiniteResourcesNormalYieldDepletion 0.0.4 (data.lua)
+   1.444 Loading mod AfraidOfTheDark 1.1.1 (data.lua)
+   1.451 Loading mod alien-biomes-hr-terrain 0.6.1 (data.lua)
+   1.458 Loading mod even-distribution 1.0.10 (data.lua)
+   1.464 Loading mod flib 0.12.3 (data.lua)
+   1.471 Loading mod jetpack 0.3.8 (data.lua)
+   1.479 Loading mod Power Armor MK3 0.4.1 (data.lua)
+   1.486 Loading mod alien-biomes 0.6.8 (data.lua)
+   1.488 Script @__alien-biomes__/data.lua:4: Log mods once: {
   AfraidOfTheDark = "1.1.1",
   AutoDeconstruct = "0.3.4",
   InfiniteResourcesNormalYieldDepletion = "0.0.4",
@@ -51,22 +51,22 @@
   jetpack = "0.3.8",
   stdlib = "1.4.8"
 }
-   1.608 Loading mod Nanobots 3.2.19 (data.lua)
-   1.626 Loading mod base 1.1.74 (data-updates.lua)
-   1.637 Loading mod InfiniteResourcesNormalYieldDepletion 0.0.4 (data-updates.lua)
-   1.651 Loading mod AfraidOfTheDark 1.1.1 (data-updates.lua)
-   1.661 Loading mod Power Armor MK3 0.4.1 (data-updates.lua)
-   1.672 Loading mod Squeak Through 1.8.2 (data-updates.lua)
-   1.683 Loading mod alien-biomes 0.6.8 (data-updates.lua)
-   1.694 Loading mod Nanobots 3.2.19 (data-updates.lua)
-   1.709 Loading mod AfraidOfTheDark 1.1.1 (data-final-fixes.lua)
-   1.719 Loading mod jetpack 0.3.8 (data-final-fixes.lua)
-   1.733 Loading mod Power Armor MK3 0.4.1 (data-final-fixes.lua)
-   1.744 Loading mod alien-biomes 0.6.8 (data-final-fixes.lua)
-   1.748 Script @__alien-biomes__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [vehicle-layer] set to layer [layer-13]
-   1.761 Script @__alien-biomes__/data-final-fixes.lua:300: Setting decals to layer 163
-   1.762 Script @__alien-biomes__/data-final-fixes.lua:407: logging tile layers
-   1.765 Script @__alien-biomes__/data-final-fixes.lua:412: {
+   1.605 Loading mod Nanobots 3.2.19 (data.lua)
+   1.622 Loading mod base 1.1.74 (data-updates.lua)
+   1.632 Loading mod InfiniteResourcesNormalYieldDepletion 0.0.4 (data-updates.lua)
+   1.646 Loading mod AfraidOfTheDark 1.1.1 (data-updates.lua)
+   1.656 Loading mod Power Armor MK3 0.4.1 (data-updates.lua)
+   1.667 Loading mod Squeak Through 1.8.2 (data-updates.lua)
+   1.679 Loading mod alien-biomes 0.6.8 (data-updates.lua)
+   1.689 Loading mod Nanobots 3.2.19 (data-updates.lua)
+   1.705 Loading mod AfraidOfTheDark 1.1.1 (data-final-fixes.lua)
+   1.715 Loading mod jetpack 0.3.8 (data-final-fixes.lua)
+   1.728 Loading mod Power Armor MK3 0.4.1 (data-final-fixes.lua)
+   1.738 Loading mod alien-biomes 0.6.8 (data-final-fixes.lua)
+   1.741 Script @__alien-biomes__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [vehicle-layer] set to layer [layer-13]
+   1.755 Script @__alien-biomes__/data-final-fixes.lua:300: Setting decals to layer 163
+   1.755 Script @__alien-biomes__/data-final-fixes.lua:407: logging tile layers
+   1.758 Script @__alien-biomes__/data-final-fixes.lua:412: {
   ["layer 0"] = "out-of-map",
   ["layer 1"] = "water, water-green",
   ["layer 2"] = "deepwater, deepwater-green",
@@ -272,140 +272,289 @@
   ["layer 202"] = "cyan-refined-concrete",
   ["layer 203"] = "acid-refined-concrete"
 }
-   1.832 Checksum for core: 870127790
-   1.832 Checksum of base: 4211423066
-   1.832 Checksum of InfiniteResourcesNormalYieldDepletion: 1233221663
-   1.832 Checksum of AfraidOfTheDark: 2330519148
-   1.832 Checksum of alien-biomes-hr-terrain: 2010945986
-   1.832 Checksum of AutoDeconstruct: 2741496923
-   1.832 Checksum of even-distribution: 3296431338
-   1.832 Checksum of flib: 128287970
-   1.832 Checksum of jetpack: 261709526
-   1.832 Checksum of Power Armor MK3: 252935734
-   1.832 Checksum of Squeak Through: 2759453103
-   1.832 Checksum of stdlib: 0
-   1.832 Checksum of alien-biomes: 793539720
-   1.832 Checksum of Nanobots: 1360658138
-   1.979 Prototype list checksum: 3578174864
-   2.015 Loading sounds...
-   2.146 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1672020829
-   2.146 Info PlayerData.cpp:78: Cloud player-data.json unavailable
-   2.271 Initial atlas bitmap size is 16384
-   2.282 Created atlas bitmap 16384x16372 [none]
-   2.283 Created atlas bitmap 16384x13488 [none]
-   2.283 Created atlas bitmap 16384x4972 [decal]
-   2.284 Created atlas bitmap 16384x5760 [low-object]
-   2.284 Created atlas bitmap 16384x4032 [mipmap, linear-minification, linear-magnification, linear-mip-level]
-   2.287 Created atlas bitmap 16384x16320 [terrain, mipmap, linear-minification, linear-mip-level]
-   2.287 Created atlas bitmap 16384x5856 [terrain, mipmap, linear-minification, linear-mip-level]
-   2.287 Created atlas bitmap 8192x1920 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
-   2.287 Created atlas bitmap 4096x1840 [smoke, mipmap, linear-minification, linear-magnification]
-   2.287 Created atlas bitmap 8192x3024 [mipmap]
-   2.287 Created atlas bitmap 8192x2464 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
-   2.287 Created atlas bitmap 8192x1632 [alpha-mask]
-   2.288 Created atlas bitmap 16384x14828 [shadow, linear-magnification, alpha-mask]
-   2.288 Created atlas bitmap 16384x4016 [shadow, mipmap, linear-magnification, alpha-mask]
-   2.288 Created atlas bitmap 2048x272 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
-   2.291 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 36.09, BC3 PSNR: 33.82
-   3.851 Parallel Sprite Loader initialized (threads: 7)
-   3.879 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-battmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   3.880 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-esmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   3.880 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-hvest.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   3.880 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-inff.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   3.880 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-lvest.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   3.880 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-nvmk2.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   3.880 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pamk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   3.880 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pamk4.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   3.880 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pnr.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   3.880 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-se.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   3.881 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-battmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
-   3.881 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-esmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
-   3.881 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-nvmk2.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
-   3.881 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-pnr.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
-   3.881 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-se.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
-  12.445 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  12.445 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  12.446 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  12.446 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  12.446 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  12.446 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  12.446 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  12.446 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  12.492 Sprites loaded
-  12.512 Generated mipmaps (4) for atlas [3] of size 16384x5760   
-  12.521 Generated mipmaps (3) for atlas [4] of size 16384x4032   
-  12.554 Generated mipmaps (3) for atlas [5] of size 16384x16320   
-  12.565 Generated mipmaps (3) for atlas [6] of size 16384x5856   
-  12.568 Generated mipmaps (3) for atlas [7] of size 8192x1920   
-  12.570 Generated mipmaps (3) for atlas [8] of size 4096x1840   
+   1.823 Checksum for core: 870127790
+   1.823 Checksum of base: 4211423066
+   1.823 Checksum of InfiniteResourcesNormalYieldDepletion: 1233221663
+   1.823 Checksum of AfraidOfTheDark: 2330519148
+   1.823 Checksum of alien-biomes-hr-terrain: 2010945986
+   1.823 Checksum of AutoDeconstruct: 2741496923
+   1.823 Checksum of even-distribution: 3296431338
+   1.823 Checksum of flib: 128287970
+   1.823 Checksum of jetpack: 261709526
+   1.823 Checksum of Power Armor MK3: 252935734
+   1.823 Checksum of Squeak Through: 2759453103
+   1.823 Checksum of stdlib: 0
+   1.823 Checksum of alien-biomes: 793539720
+   1.823 Checksum of Nanobots: 1360658138
+   1.974 Prototype list checksum: 3578174864
+   2.010 Loading sounds...
+   2.162 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1672297332
+   2.162 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+   2.289 Initial atlas bitmap size is 16384
+   2.300 Created atlas bitmap 16384x16372 [none]
+   2.301 Created atlas bitmap 16384x13488 [none]
+   2.301 Created atlas bitmap 16384x4972 [decal]
+   2.301 Created atlas bitmap 16384x5760 [low-object]
+   2.301 Created atlas bitmap 16384x4032 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.305 Created atlas bitmap 16384x16320 [terrain, mipmap, linear-minification, linear-mip-level]
+   2.305 Created atlas bitmap 16384x5856 [terrain, mipmap, linear-minification, linear-mip-level]
+   2.305 Created atlas bitmap 8192x1920 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   2.305 Created atlas bitmap 4096x1840 [smoke, mipmap, linear-minification, linear-magnification]
+   2.305 Created atlas bitmap 8192x3024 [mipmap]
+   2.305 Created atlas bitmap 8192x2464 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.305 Created atlas bitmap 8192x1632 [alpha-mask]
+   2.306 Created atlas bitmap 16384x14828 [shadow, linear-magnification, alpha-mask]
+   2.306 Created atlas bitmap 16384x4016 [shadow, mipmap, linear-magnification, alpha-mask]
+   2.306 Created atlas bitmap 2048x272 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   2.309 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 36.09, BC3 PSNR: 33.82
+   4.031 Parallel Sprite Loader initialized (threads: 7)
+   4.062 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-battmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   4.062 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-esmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   4.062 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-hvest.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   4.062 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-inff.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   4.062 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-lvest.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   4.062 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-nvmk2.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   4.062 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pamk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   4.062 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pamk4.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   4.062 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pnr.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   4.063 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-se.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   4.063 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-battmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
+   4.063 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-esmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
+   4.063 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-nvmk2.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
+   4.063 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-pnr.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
+   4.063 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-se.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
+  12.450 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  12.450 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  12.451 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  12.451 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  12.451 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  12.451 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  12.451 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  12.451 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  12.497 Sprites loaded
+  12.516 Generated mipmaps (4) for atlas [3] of size 16384x5760   
+  12.525 Generated mipmaps (3) for atlas [4] of size 16384x4032   
+  12.556 Generated mipmaps (3) for atlas [5] of size 16384x16320   
+  12.567 Generated mipmaps (3) for atlas [6] of size 16384x5856   
+  12.570 Generated mipmaps (3) for atlas [7] of size 8192x1920   
+  12.572 Generated mipmaps (3) for atlas [8] of size 4096x1840   
   12.621 Generated mipmaps (3) for atlas [9] of size 8192x3024   
   12.637 Generated mipmaps (5) for atlas [10] of size 8192x2464   
   12.643 Generated mipmaps (3) for atlas [13] of size 16384x4016   
   12.647 Custom mipmaps uploaded.
-  12.652 Custom inputs active: 4
-  12.742 Factorio initialised
-  12.743 Info HttpSharedState.cpp:54: Downloading https://updater.factorio.com/updater/get-available-versions?username=jpericles&token=<private>&apiVersion=2
-  13.874 0 packages available to download (experimental updates disabled).
-  16.068 Loading map /Users/james/Library/Application Support/factorio/saves/_autosave3.zip: 5554829 bytes.
-  16.086 Loading level.dat: 14133610 bytes.
-  16.089 Info Scenario.cpp:199: Map version 1.1.74-1
-  16.176 Loading script.dat: 11299 bytes.
-  16.177 Checksum for script /Users/james/Library/Application Support/factorio/temp/currently-playing/control.lua: 2881393120
-  16.178 Checksum for script __InfiniteResourcesNormalYieldDepletion__/control.lua: 2023790213
-  16.179 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
-  16.180 Checksum for script __AutoDeconstruct__/control.lua: 1937405784
-  16.181 Script @__even-distribution__/framework.lua:72: 0 [ED] Initializing framework... DEBUG = false
-  16.181 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom scripts...
-  16.181 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: metatables
-  16.181 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: util
-  16.181 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: helpers
-  16.181 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: setup
-  16.182 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: remote
-  16.182 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: visuals
-  16.182 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: gui-tools
-  16.182 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: drag
-  16.182 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: cleanup
-  16.183 Script @__even-distribution__/framework.lua:72: 0 [ED] GUI-Script: settings-gui
-  16.183 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering default event handlers...
-  16.183 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom inputs...
-  16.183 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
-  16.183 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
-  16.183 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
-  16.184 Script @__even-distribution__/framework.lua:72: 0 [ED] Successfully initialized
-  16.184 Checksum for script __even-distribution__/control.lua: 850894597
-  16.187 Checksum for script __jetpack__/control.lua: 2363448258
-  16.187 Checksum for script __alien-biomes__/control.lua: 1814481397
-  16.193 Checksum for script __Nanobots__/control.lua: 1686961069
- 353.117 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
- 354.294 Info AppManagerStates.cpp:1903: Saving finished
- 654.758 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
- 654.954 Info AppManagerStates.cpp:1903: Saving finished
- 955.023 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
- 955.189 Info AppManagerStates.cpp:1903: Saving finished
-1028.175 Info AppManagerStates.cpp:1903: Saving finished
-1552.540 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
-1552.728 Info AppManagerStates.cpp:1903: Saving finished
-1944.578 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
-1944.760 Info AppManagerStates.cpp:1903: Saving finished
-2244.857 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
-2245.047 Info AppManagerStates.cpp:1903: Saving finished
-2558.364 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
-2558.530 Info AppManagerStates.cpp:1903: Saving finished
-2581.463 Warning WriteFileGuard.cpp:141: Failed to rename /Users/james/Library/Application Support/factorio/config/config.tmp.ini to /Users/james/Library/Application Support/factorio/config/config.ini
-2581.463 Backup is NOT available.
-2581.463 Warning WriteFileGuard.cpp:146: Destination path exists: /Users/james/Library/Application Support/factorio/config/config.ini
-2581.463 Warning WriteFileGuard.cpp:57: Writing /Users/james/Library/Application Support/factorio/config/config.ini failed; previous version (if any) should still be available
-2581.464 Error GlobalContext.cpp:1791: Couldn't save config: filesystem error: Failed to rename: /Users/james/Library/Application Support/factorio/config/config.tmp.ini. It might be locked by other application.: Permission denied ["/Users/james/Library/Application Support/factorio/config/config.tmp.ini"] ["/Users/james/Library/Application Support/factorio/config/config.ini"]
-2591.334 Warning WriteFileGuard.cpp:141: Failed to rename /Users/james/Library/Application Support/factorio/config/config.tmp.ini to /Users/james/Library/Application Support/factorio/config/config.ini
-2591.334 Backup is NOT available.
-2591.334 Warning WriteFileGuard.cpp:146: Destination path exists: /Users/james/Library/Application Support/factorio/config/config.ini
-2591.334 Warning WriteFileGuard.cpp:57: Writing /Users/james/Library/Application Support/factorio/config/config.ini failed; previous version (if any) should still be available
-2591.334 Error GlobalContext.cpp:1791: Couldn't save config: filesystem error: Failed to rename: /Users/james/Library/Application Support/factorio/config/config.tmp.ini. It might be locked by other application.: Permission denied ["/Users/james/Library/Application Support/factorio/config/config.tmp.ini"] ["/Users/james/Library/Application Support/factorio/config/config.ini"]
-2859.556 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
-2859.768 Info AppManagerStates.cpp:1903: Saving finished
-3165.673 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
-3165.859 Info AppManagerStates.cpp:1903: Saving finished
-3645.458 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
-3645.663 Info AppManagerStates.cpp:1903: Saving finished
-4003.832 Quitting: window closed.
-4004.092 Goodbye
+  12.654 Custom inputs active: 4
+  12.750 Factorio initialised
+  12.750 Info HttpSharedState.cpp:54: Downloading https://updater.factorio.com/updater/get-available-versions?username=jpericles&token=<private>&apiVersion=2
+  13.142 0 packages available to download (experimental updates disabled).
+  14.436 Loading map /Users/james/Library/Application Support/factorio/saves/Mac.zip: 6242547 bytes.
+  14.460 Loading level.dat: 15312616 bytes.
+  14.470 Info Scenario.cpp:199: Map version 1.1.74-1
+  14.564 Loading script.dat: 11266 bytes.
+  14.566 Checksum for script /Users/james/Library/Application Support/factorio/temp/currently-playing/control.lua: 2881393120
+  14.567 Checksum for script __InfiniteResourcesNormalYieldDepletion__/control.lua: 2023790213
+  14.567 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
+  14.568 Checksum for script __AutoDeconstruct__/control.lua: 1937405784
+  14.569 Script @__even-distribution__/framework.lua:72: 0 [ED] Initializing framework... DEBUG = false
+  14.569 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom scripts...
+  14.569 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: metatables
+  14.569 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: util
+  14.569 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: helpers
+  14.570 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: setup
+  14.570 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: remote
+  14.570 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: visuals
+  14.570 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: gui-tools
+  14.570 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: drag
+  14.571 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: cleanup
+  14.571 Script @__even-distribution__/framework.lua:72: 0 [ED] GUI-Script: settings-gui
+  14.571 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering default event handlers...
+  14.572 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom inputs...
+  14.572 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+  14.572 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+  14.572 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+  14.572 Script @__even-distribution__/framework.lua:72: 0 [ED] Successfully initialized
+  14.572 Checksum for script __even-distribution__/control.lua: 850894597
+  14.575 Checksum for script __jetpack__/control.lua: 2363448258
+  14.575 Checksum for script __alien-biomes__/control.lua: 1814481397
+  14.581 Checksum for script __Nanobots__/control.lua: 1686961069
+  57.274 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+  57.470 Info AppManagerStates.cpp:1903: Saving finished
+ 411.373 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+ 411.561 Info AppManagerStates.cpp:1903: Saving finished
+ 442.697 Warning WriteFileGuard.cpp:141: Failed to rename /Users/james/Library/Application Support/factorio/config/config.tmp.ini to /Users/james/Library/Application Support/factorio/config/config.ini
+ 442.697 Backup is NOT available.
+ 442.698 Warning WriteFileGuard.cpp:146: Destination path exists: /Users/james/Library/Application Support/factorio/config/config.ini
+ 442.698 Warning WriteFileGuard.cpp:57: Writing /Users/james/Library/Application Support/factorio/config/config.ini failed; previous version (if any) should still be available
+ 442.698 Error GlobalContext.cpp:1791: Couldn't save config: filesystem error: Failed to rename: /Users/james/Library/Application Support/factorio/config/config.tmp.ini. It might be locked by other application.: Permission denied ["/Users/james/Library/Application Support/factorio/config/config.tmp.ini"] ["/Users/james/Library/Application Support/factorio/config/config.ini"]
+ 901.563 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+ 901.762 Info AppManagerStates.cpp:1903: Saving finished
+1216.342 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+1216.530 Info AppManagerStates.cpp:1903: Saving finished
+1697.195 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+1697.399 Info AppManagerStates.cpp:1903: Saving finished
+1997.428 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+1997.644 Info AppManagerStates.cpp:1903: Saving finished
+2411.142 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+2411.336 Info AppManagerStates.cpp:1903: Saving finished
+2727.993 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+2728.209 Info AppManagerStates.cpp:1903: Saving finished
+3201.442 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+3201.628 Info AppManagerStates.cpp:1903: Saving finished
+3341.482 Info AppManagerStates.cpp:1903: Saving finished
+4338.376 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+4338.559 Info AppManagerStates.cpp:1903: Saving finished
+4694.373 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+4694.577 Info AppManagerStates.cpp:1903: Saving finished
+5016.695 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+5016.911 Info AppManagerStates.cpp:1903: Saving finished
+5355.324 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+5355.498 Info AppManagerStates.cpp:1903: Saving finished
+5695.960 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+5696.143 Info AppManagerStates.cpp:1903: Saving finished
+5999.942 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+6000.133 Info AppManagerStates.cpp:1903: Saving finished
+6302.790 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+6302.971 Info AppManagerStates.cpp:1903: Saving finished
+6603.259 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+6603.435 Info AppManagerStates.cpp:1903: Saving finished
+6958.329 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+6958.520 Info AppManagerStates.cpp:1903: Saving finished
+7258.645 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+7258.844 Info AppManagerStates.cpp:1903: Saving finished
+7558.891 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+7559.077 Info AppManagerStates.cpp:1903: Saving finished
+7859.110 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+7859.311 Info AppManagerStates.cpp:1903: Saving finished
+7908.297 Loading map /Users/james/Library/Application Support/factorio/saves/_autosave3.zip: 6166270 bytes.
+7908.311 Loading level.dat: 15158855 bytes.
+7908.314 Info Scenario.cpp:199: Map version 1.1.74-1
+7908.413 Loading script.dat: 11290 bytes.
+7908.415 Checksum for script /Users/james/Library/Application Support/factorio/temp/currently-playing/control.lua: 2881393120
+7908.416 Checksum for script __InfiniteResourcesNormalYieldDepletion__/control.lua: 2023790213
+7908.416 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
+7908.418 Checksum for script __AutoDeconstruct__/control.lua: 1937405784
+7908.418 Script @__even-distribution__/framework.lua:72: 0 [ED] Initializing framework... DEBUG = false
+7908.418 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom scripts...
+7908.418 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: metatables
+7908.418 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: util
+7908.418 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: helpers
+7908.419 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: setup
+7908.419 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: remote
+7908.419 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: visuals
+7908.419 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: gui-tools
+7908.420 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: drag
+7908.420 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: cleanup
+7908.420 Script @__even-distribution__/framework.lua:72: 0 [ED] GUI-Script: settings-gui
+7908.421 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering default event handlers...
+7908.421 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom inputs...
+7908.421 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+7908.421 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+7908.421 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+7908.422 Script @__even-distribution__/framework.lua:72: 0 [ED] Successfully initialized
+7908.422 Checksum for script __even-distribution__/control.lua: 850894597
+7908.424 Checksum for script __jetpack__/control.lua: 2363448258
+7908.425 Checksum for script __alien-biomes__/control.lua: 1814481397
+7908.431 Checksum for script __Nanobots__/control.lua: 1686961069
+8208.827 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+8209.031 Info AppManagerStates.cpp:1903: Saving finished
+8509.357 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+8509.537 Info AppManagerStates.cpp:1903: Saving finished
+8835.699 Info AppManagerStates.cpp:1903: Saving finished
+8837.899 Loading map /Users/james/Library/Application Support/factorio/saves/Switch.zip: 14777282 bytes.
+8837.909 Loading level.dat: 37369420 bytes.
+8837.914 Info Scenario.cpp:199: Map version 1.1.74-1
+8837.915 Info PrototypeMigrationList.cpp:194: Activating migration Power Armor MK3/Power Armor MK3_0.0.9.json
+8837.915 Info PrototypeMigrationList.cpp:194: Activating migration Power Armor MK3/Power Armor MK3_0.2.16.json
+8837.915 Info PrototypeMigrationList.cpp:194: Activating migration Power Armor MK3/Power Armor MK3_0.2.6.json
+8839.684 Loading script.dat: 1191 bytes.
+8839.687 Checksum for script /Users/james/Library/Application Support/factorio/temp/currently-playing/control.lua: 2881393120
+8839.688 Checksum for script __InfiniteResourcesNormalYieldDepletion__/control.lua: 2023790213
+8839.689 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
+8839.690 Checksum for script __AutoDeconstruct__/control.lua: 1937405784
+8839.690 Script @__even-distribution__/framework.lua:72: 0 [ED] Initializing framework... DEBUG = false
+8839.690 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom scripts...
+8839.690 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: metatables
+8839.691 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: util
+8839.691 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: helpers
+8839.691 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: setup
+8839.691 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: remote
+8839.691 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: visuals
+8839.692 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: gui-tools
+8839.692 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: drag
+8839.692 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: cleanup
+8839.692 Script @__even-distribution__/framework.lua:72: 0 [ED] GUI-Script: settings-gui
+8839.693 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering default event handlers...
+8839.693 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom inputs...
+8839.693 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+8839.693 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+8839.693 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+8839.694 Script @__even-distribution__/framework.lua:72: 0 [ED] Successfully initialized
+8839.694 Checksum for script __even-distribution__/control.lua: 850894597
+8839.697 Checksum for script __jetpack__/control.lua: 2363448258
+8839.697 Checksum for script __alien-biomes__/control.lua: 1814481397
+8839.704 Checksum for script __Nanobots__/control.lua: 1686961069
+8839.763 Script @__even-distribution__/framework.lua:72: 19550364 [ED] Player (1) settings migrated from none to 1.0.0
+8839.763 Script @__even-distribution__/framework.lua:72: 19550364 [ED] Player (1) settings migrated from 1.0.0 to 1.0.2
+8839.763 Script @__even-distribution__/framework.lua:72: 19550364 [ED] Player (1) settings migrated from 1.0.2 to 1.0.3
+8839.763 Script @__even-distribution__/framework.lua:72: 19550364 [ED] Player (1) settings migrated from 1.0.3 to 1.0.8
+8839.763 Script @__even-distribution__/framework.lua:72: 19550364 [ED] Player (jpericles) settings migrated from none to 1.0.0
+8839.763 Script @__even-distribution__/framework.lua:72: 19550364 [ED] Player (jpericles) settings migrated from 1.0.0 to 1.0.2
+8839.763 Script @__even-distribution__/framework.lua:72: 19550364 [ED] Player (jpericles) settings migrated from 1.0.2 to 1.0.3
+8839.763 Script @__even-distribution__/framework.lua:72: 19550364 [ED] Player (jpericles) settings migrated from 1.0.3 to 1.0.8
+8839.764 Applying migration: Even Distribution: even-distribution_0.1.1.lua
+8839.776 Script @__even-distribution__/migrations/even-distribution_0.1.1.lua:8: Even Distribution: All distribution markers have been removed
+8839.776 Applying migration: Even Distribution: even-distribution_0.3.6.lua
+8839.776 Script @__even-distribution__/migrations/even-distribution_0.3.6.lua:28: Even Distribution: Global metatables have been updated
+8839.776 Applying migration: Even Distribution: even-distribution_1.0.0.lua
+8839.777 Script @__even-distribution__/migrations/even-distribution_1.0.0.lua:31: Even Distribution: Migrated to version 1.0.0
+8839.777 Applying migration: Even Distribution: even-distribution_1.0.1.lua
+8839.777 Script @__even-distribution__/migrations/even-distribution_1.0.1.lua:9: Even Distribution: Migrated to version 1.0.1
+8839.777 Applying migration: Power Armor MK3: Power Armor MK3_0.0.9.lua
+8839.778 Applying migration: Power Armor MK3: Power Armor MK3_0.2.10.lua
+8839.779 Applying migration: Power Armor MK3: Power Armor MK3_0.2.16.lua
+8839.781 Applying migration: Nanobots: Early Bots: 20200410-3.2.6-unlock-toggles.lua
+8839.893 Script @__stdlib__/stdlib/event/changes.lua:111: Nanobots: version changed from nil to 3.2.19
+8987.459 Info BlueprintShelf.cpp:720: Saving blueprint storage.
+8987.549 Loading map /Users/james/Library/Application Support/factorio/saves/Mac.zip: 6136846 bytes.
+8987.563 Loading level.dat: 16119777 bytes.
+8987.566 Info Scenario.cpp:199: Map version 1.1.74-1
+8987.663 Loading script.dat: 11422 bytes.
+8987.666 Checksum for script /Users/james/Library/Application Support/factorio/temp/currently-playing/control.lua: 2881393120
+8987.666 Checksum for script __InfiniteResourcesNormalYieldDepletion__/control.lua: 2023790213
+8987.667 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
+8987.668 Checksum for script __AutoDeconstruct__/control.lua: 1937405784
+8987.669 Script @__even-distribution__/framework.lua:72: 0 [ED] Initializing framework... DEBUG = false
+8987.669 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom scripts...
+8987.669 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: metatables
+8987.669 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: util
+8987.669 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: helpers
+8987.669 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: setup
+8987.670 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: remote
+8987.670 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: visuals
+8987.670 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: gui-tools
+8987.670 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: drag
+8987.670 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: cleanup
+8987.671 Script @__even-distribution__/framework.lua:72: 0 [ED] GUI-Script: settings-gui
+8987.671 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering default event handlers...
+8987.671 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom inputs...
+8987.672 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+8987.672 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+8987.672 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+8987.672 Script @__even-distribution__/framework.lua:72: 0 [ED] Successfully initialized
+8987.672 Checksum for script __even-distribution__/control.lua: 850894597
+8987.675 Checksum for script __jetpack__/control.lua: 2363448258
+8987.676 Checksum for script __alien-biomes__/control.lua: 1814481397
+8987.682 Checksum for script __Nanobots__/control.lua: 1686961069
+8993.361 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+8993.498 Info BlueprintShelf.cpp:720: Saving blueprint storage.
+8993.523 Info AppManagerStates.cpp:1903: Saving finished
+9325.610 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+9325.811 Info AppManagerStates.cpp:1903: Saving finished
+9625.943 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+9626.144 Info AppManagerStates.cpp:1903: Saving finished
+9926.208 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+9926.393 Info AppManagerStates.cpp:1903: Saving finished
+10226.441 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+10226.621 Info AppManagerStates.cpp:1903: Saving finished
+10322.114 Info AppManagerStates.cpp:1903: Saving finished
+10324.074 Quitting: window closed.
+10324.304 Goodbye
