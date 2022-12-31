@@ -531,26 +531,26 @@
     "game_version": "1.1.74",
     "build_version": 60256,
     "build_mode": "full",
-    "platform": "mac-x64"
+    "platform": "mac-arm64"
   },
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "biter_base_laser_defense",
-    "burner_city",
-    "logistic_robots",
-    "forest_fire",
-    "train_station",
-    "oil_pumpjacks",
-    "big_defense",
-    "biter_base_spidertron",
-    "biter_base_player_attack",
-    "biter_base_artillery",
-    "artillery",
     "lab",
     "chase_player",
     "brutal_defeat",
     "train_junction",
-    "early_smelting"
+    "early_smelting",
+    "oil_refinery",
+    "nuclear_power",
+    "mining_defense",
+    "solar_power_construction",
+    "spider_ponds",
+    "biter_base_steamrolled",
+    "oil_pumpjacks",
+    "train_station",
+    "big_defense",
+    "biter_base_artillery",
+    "burner_city"
   ]
 }
