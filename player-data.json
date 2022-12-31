@@ -294,15 +294,7 @@
       [
         
         {
-          "conditions": 
-          [
-            
-            {},
-            
-            {},
-            
-            {}
-          ]
+          "triggered": true
         },
         
         {}
@@ -536,21 +528,22 @@
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "lab",
-    "chase_player",
-    "brutal_defeat",
     "train_junction",
-    "early_smelting",
+    "brutal_defeat",
     "oil_refinery",
+    "early_smelting",
     "nuclear_power",
+    "lab",
     "mining_defense",
-    "solar_power_construction",
-    "spider_ponds",
     "biter_base_steamrolled",
+    "chase_player",
+    "spider_ponds",
+    "solar_power_construction",
+    "artillery",
+    "burner_city",
+    "biter_base_player_attack",
+    "logistic_robots",
     "oil_pumpjacks",
-    "train_station",
-    "big_defense",
-    "biter_base_artillery",
-    "burner_city"
+    "biter_base_laser_defense"
   ]
 }
