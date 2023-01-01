@@ -1,6 +1,5 @@
 #!/bin/bash
 source config.sh
-source colors.sh
 
 die () {
     echo >&2 "$@";
@@ -15,25 +14,25 @@ die () {
 
 # validate the current argument was provided, either push or pull
 if [ "$1" = "push" ] || [ "$1" = "pull" ]; then
-    print_style "Valid argument provided\n" "success";
+    echo "Valid argument provided"
     # If the argument is push, then copy all files from LOCAL and push to github
     if [ "$1" = "push" ]; then
-        print_style "Preparing directories...\n" "info";
-        print_style "Coping from ${factorioLocal} to ${factorioBackup}...\n" "warning";
+        echo "Preparing directories..."
+        echo "Coping from ${factorioLocal} to ${factorioBackup}..."
         cp -r "$factorioLocal"/* $factorioBackup
-        print_style "Backed up local files\n" "success";
-        print_style "Pushing to github...\n" "info";
+        echo "Backed up local files"
+        echo "Pushing to github..."
         cp -r "$factorioLocal"/* $factorioRepo
         git add .
         git commit -m "Update"
         git push
-        print_style "Push completed!\n" "success";
+        echo "Push completed"
     # If the argument is pull, then copy all files from github and push to LOCAL
     elif [ "$1" = "pull" ]; then
-        print_style "Pulling from github\n" "info";
+        echo "Pulling from github"
         git pull
-        print_style "Coping from ${factorioRepo} to ${factorioLocal}...\n" "warning";
+        echo "Coping from ${factorioRepo} to ${factorioLocal}..."
         cp -r $factorioRepo/* "$factorioLocal"
-        print_style "Updated local files!\n" "success";
+        echo "Updated local files"
     fi
 fi

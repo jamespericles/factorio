@@ -147,7 +147,9 @@
       "conditions": 
       [
         
-        {},
+        {
+          "count": 8
+        },
         
         {}
       ]
@@ -393,7 +395,7 @@
   "last-played": 
   {
     "type": "single-player",
-    "save-name": "Mac"
+    "save-name": "_autosave2"
   },
   "service-username": "jpericles",
   "service-token": "061ff8a21c5c6f23da15b9dcf5d06e",
@@ -515,6 +517,8 @@
     "biter_base_laser_defense",
     "forest_fire",
     "biter_base_spidertron",
-    "train_station"
+    "train_station",
+    "big_defense",
+    "biter_base_artillery"
   ]
 }
