@@ -19,16 +19,15 @@
   {
     "introduction": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "show-info": 
     {
-      "status": "dependencies-not-met"
+      "status": "completed"
     },
     "e-confirm": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "clear-cursor": 
     {
@@ -48,12 +47,11 @@
     },
     "z-dropping": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "shoot-targeting": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "bulk-crafting": 
     {
@@ -61,38 +59,31 @@
     },
     "rotating-assemblers": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "circuit-network": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "inserters": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "burner-inserter-refueling": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "long-handed-inserters": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "move-between-labs": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "insertion-limits": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "limit-chests": 
     {
@@ -100,18 +91,15 @@
     },
     "transport-belts": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "belt-lanes": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "splitters": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "splitter-filters": 
     {
@@ -119,17 +107,15 @@
     },
     "underground-belts": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "electric-network": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "steam-power": 
     {
-      "status": "dependencies-not-met"
+      "status": "completed"
     },
     "electric-pole-connections": 
     {
@@ -137,8 +123,7 @@
     },
     "low-power": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "connect-switch": 
     {
@@ -150,11 +135,11 @@
     },
     "copy-paste-trains": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "copy-paste-filters": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "copy-paste-requester-chest": 
     {
@@ -177,11 +162,11 @@
     },
     "drag-building-poles": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "pole-dragging-coverage": 
     {
-      "status": "dependencies-not-met"
+      "status": "completed"
     },
     "drag-building-underground-belts": 
     {
@@ -189,11 +174,7 @@
     },
     "fast-belt-bending": 
     {
-      "status": "suggested",
-      "skip_status": 
-      {
-        "count": 1
-      }
+      "status": "completed"
     },
     "fast-obstacle-traversing": 
     {
@@ -201,23 +182,19 @@
     },
     "trains": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "rail-building": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "train-stops": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed-without-tutorial"
     },
     "rail-signals-basic": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed-without-tutorial"
     },
     "rail-signals-advanced": 
     {
@@ -232,56 +209,47 @@
     },
     "gate-over-rail": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "pump-connection": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "train-stop-same-name": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "logistic-network": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "personal-logistics": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "construction-robots": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "passive-provider-chest": 
     {
-      "status": "dependencies-not-met"
+      "status": "completed"
     },
     "storage-chest": 
     {
-      "status": "dependencies-not-met"
+      "status": "completed"
     },
     "requester-chest": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "active-provider-chest": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "buffer-chest": 
     {
-      "status": "dependencies-not-met",
-      "triggered": true
+      "status": "completed"
     },
     "ghost-building": 
     {
@@ -302,7 +270,7 @@
     },
     "copy-paste": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "fast-replace": 
     {
@@ -318,7 +286,7 @@
     },
     "fast-replace-belt-underground": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "kr-about-k2": 
     {
@@ -544,6 +512,9 @@
     "biter_base_player_attack",
     "logistic_robots",
     "oil_pumpjacks",
-    "biter_base_laser_defense"
+    "biter_base_laser_defense",
+    "forest_fire",
+    "biter_base_spidertron",
+    "train_station"
   ]
 }
