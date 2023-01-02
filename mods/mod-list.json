@@ -54,6 +54,11 @@
     },
     
     {
+      "name": "Nuclear_Artillery_Shell",
+      "enabled": true
+    },
+    
+    {
       "name": "Power Armor MK3",
       "enabled": true
     },

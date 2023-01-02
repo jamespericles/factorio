@@ -148,10 +148,12 @@
       [
         
         {
-          "count": 8
+          "triggered": true
         },
         
-        {}
+        {
+          "count": 3
+        }
       ]
     },
     "copy-paste-spidertron": 
@@ -200,14 +202,7 @@
     },
     "rail-signals-advanced": 
     {
-      "status": "locked",
-      "conditions": 
-      [
-        
-        {},
-        
-        {}
-      ]
+      "status": "suggested"
     },
     "gate-over-rail": 
     {
@@ -267,7 +262,9 @@
           "triggered": true
         },
         
-        {}
+        {
+          "count": 64
+        }
       ]
     },
     "copy-paste": 
@@ -395,7 +392,7 @@
   "last-played": 
   {
     "type": "single-player",
-    "save-name": "_autosave2"
+    "save-name": "Mac"
   },
   "service-username": "jpericles",
   "service-token": "061ff8a21c5c6f23da15b9dcf5d06e",
@@ -498,27 +495,23 @@
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "train_junction",
-    "brutal_defeat",
-    "oil_refinery",
-    "early_smelting",
-    "nuclear_power",
-    "lab",
-    "mining_defense",
-    "biter_base_steamrolled",
-    "chase_player",
-    "spider_ponds",
-    "solar_power_construction",
-    "artillery",
-    "burner_city",
     "biter_base_player_attack",
-    "logistic_robots",
-    "oil_pumpjacks",
-    "biter_base_laser_defense",
-    "forest_fire",
     "biter_base_spidertron",
-    "train_station",
+    "forest_fire",
+    "biter_base_laser_defense",
+    "biter_base_artillery",
+    "logistic_robots",
+    "burner_city",
+    "artillery",
     "big_defense",
-    "biter_base_artillery"
+    "oil_pumpjacks",
+    "train_station",
+    "biter_base_steamrolled",
+    "spider_ponds",
+    "train_junction",
+    "lab",
+    "early_smelting",
+    "chase_player",
+    "brutal_defeat"
   ]
 }
