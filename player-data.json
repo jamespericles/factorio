@@ -152,7 +152,7 @@
         },
         
         {
-          "count": 3
+          "count": 9
         }
       ]
     },
@@ -495,23 +495,23 @@
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "biter_base_player_attack",
-    "biter_base_spidertron",
-    "forest_fire",
-    "biter_base_laser_defense",
-    "biter_base_artillery",
-    "logistic_robots",
-    "burner_city",
-    "artillery",
-    "big_defense",
-    "oil_pumpjacks",
-    "train_station",
     "biter_base_steamrolled",
     "spider_ponds",
     "train_junction",
     "lab",
     "early_smelting",
     "chase_player",
-    "brutal_defeat"
+    "brutal_defeat",
+    "mining_defense",
+    "oil_refinery",
+    "nuclear_power",
+    "solar_power_construction",
+    "logistic_robots",
+    "forest_fire",
+    "biter_base_laser_defense",
+    "big_defense",
+    "burner_city",
+    "biter_base_artillery",
+    "biter_base_spidertron"
   ]
 }
