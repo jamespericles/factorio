@@ -202,7 +202,7 @@
     },
     "rail-signals-advanced": 
     {
-      "status": "suggested"
+      "status": "completed-without-tutorial"
     },
     "gate-over-rail": 
     {
@@ -512,6 +512,8 @@
     "big_defense",
     "burner_city",
     "biter_base_artillery",
-    "biter_base_spidertron"
+    "biter_base_spidertron",
+    "artillery",
+    "biter_base_player_attack"
   ]
 }

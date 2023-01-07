@@ -1,4 +1,5 @@
 {
+  "order": "a",
   "multiplayer-compatible": true,
-  "order": "f"
+  "is-main-game": true
 }
