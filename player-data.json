@@ -158,7 +158,7 @@
     },
     "copy-paste-spidertron": 
     {
-      "status": "locked"
+      "status": "suggested"
     },
     "drag-building": 
     {
@@ -495,25 +495,27 @@
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "biter_base_steamrolled",
-    "spider_ponds",
+    "oil_pumpjacks",
+    "biter_base_spidertron",
+    "train_station",
+    "logistic_robots",
+    "biter_base_player_attack",
+    "forest_fire",
+    "burner_city",
+    "artillery",
+    "big_defense",
+    "biter_base_artillery",
+    "biter_base_laser_defense",
     "train_junction",
-    "lab",
-    "early_smelting",
-    "chase_player",
-    "brutal_defeat",
-    "mining_defense",
-    "oil_refinery",
     "nuclear_power",
     "solar_power_construction",
-    "logistic_robots",
-    "forest_fire",
-    "biter_base_laser_defense",
-    "big_defense",
-    "burner_city",
-    "biter_base_artillery",
-    "biter_base_spidertron",
-    "artillery",
-    "biter_base_player_attack"
+    "biter_base_steamrolled",
+    "chase_player",
+    "spider_ponds",
+    "mining_defense",
+    "lab",
+    "brutal_defeat",
+    "early_smelting",
+    "oil_refinery"
   ]
 }
