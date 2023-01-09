@@ -495,17 +495,6 @@
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "oil_pumpjacks",
-    "biter_base_spidertron",
-    "train_station",
-    "logistic_robots",
-    "biter_base_player_attack",
-    "forest_fire",
-    "burner_city",
-    "artillery",
-    "big_defense",
-    "biter_base_artillery",
-    "biter_base_laser_defense",
     "train_junction",
     "nuclear_power",
     "solar_power_construction",
@@ -516,6 +505,17 @@
     "lab",
     "brutal_defeat",
     "early_smelting",
-    "oil_refinery"
+    "oil_refinery",
+    "big_defense",
+    "artillery",
+    "logistic_robots",
+    "burner_city",
+    "biter_base_artillery",
+    "biter_base_laser_defense",
+    "biter_base_spidertron",
+    "biter_base_player_attack",
+    "oil_pumpjacks",
+    "train_station",
+    "forest_fire"
   ]
 }
