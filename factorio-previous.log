@@ -1,48 +1,48 @@
-   0.000 2023-01-09 15:33:33; Factorio 1.1.74 (build 60256, mac-x64, full)
+   0.000 2023-01-09 16:05:25; Factorio 1.1.74 (build 60256, mac-x64, full)
    0.003 Operating system: macOS 10.16.0
    0.003 Program arguments: "/Applications/factorio.app/Contents/MacOS/factorio" 
    0.003 Config path: /Users/james/Library/Application Support/factorio/config/config.ini
    0.003 Read data path: /Applications/factorio.app/Contents/data
-   0.003 Write data path: /Users/james/Library/Application Support/factorio [64565/399589MB]
+   0.003 Write data path: /Users/james/Library/Application Support/factorio [64698/399589MB]
    0.003 Binaries path: /Applications/factorio.app/Contents
-   0.050 System info: [CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, 16 cores, RAM: 40960 MB]
-   0.050 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmW] [Lang: en]
-   0.159 Available displays: 3
-   0.159  [0]: iMac - {[0,0], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x42baca4(0x01)}
-   0.159  [1]: LEN P27h-10 - {[-2560,192], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x2b985ef5(0x02)}
-   0.159  [2]: Studio Display - {[2560,227], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x42b56ba(0x04)}
-   1.230 Initialised OpenGL:[0] AMD Radeon Pro 5500 XT OpenGL Engine; driver: 4.1 ATI-4.9.48
-   1.230   [Size] Window: 2560x1440, Backbuffer: 5120x2880
-   1.230   [Extensions] s3tc:yes; KHR_debug:NO; ARB_clear_texture:NO, ARB_copy_image:NO
-   1.230   [Version] 4.1
-   1.230 Graphics settings preset: very-high
-   1.230   Dedicated video memory size 8176 MB (detected from AMD Radeon Pro 5500 XT Compute Engine; VendorID: 0x1021e00)
-   1.335 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
-   1.335                   [Max threads (load/render): 32/16] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
-   2.069 [Audio] Backend:SDL(default); Driver:coreaudio, Device:Default device, Depth:16, Channels:2, Frequency:44100
-   2.257 Info ModManager.cpp:253: Found duplicate mod AutoDeconstruct, using higher version (0.3.5 > 0.3.4).
-   2.277 Loading mod settings InfiniteResourcesNormalYieldDepletion 0.0.4 (settings.lua)
-   2.277 Loading mod settings AutoDeconstruct 0.3.5 (settings.lua)
-   2.278 Loading mod settings even-distribution 1.0.10 (settings.lua)
-   2.278 Loading mod settings jetpack 0.3.8 (settings.lua)
-   2.278 Loading mod settings Power Armor MK3 0.4.1 (settings.lua)
-   2.279 Loading mod settings Squeak Through 1.8.2 (settings.lua)
-   2.279 Loading mod settings alien-biomes 0.6.8 (settings.lua)
-   2.279 Loading mod settings Nanobots 3.2.19 (settings.lua)
-   2.280 Loading mod settings ZRecycling 1.1.4 (settings.lua)
-   2.280 Loading mod settings AutoDeconstruct 0.3.5 (settings-final-fixes.lua)
-   2.282 Loading mod core 0.0.0 (data.lua)
-   2.322 Loading mod base 1.1.74 (data.lua)
-   2.477 Loading mod InfiniteResourcesNormalYieldDepletion 0.0.4 (data.lua)
-   2.483 Loading mod AfraidOfTheDark 1.1.1 (data.lua)
-   2.490 Loading mod alien-biomes-hr-terrain 0.6.1 (data.lua)
-   2.495 Loading mod even-distribution 1.0.10 (data.lua)
-   2.501 Loading mod flib 0.12.4 (data.lua)
-   2.507 Loading mod jetpack 0.3.8 (data.lua)
-   2.514 Loading mod Nuclear_Artillery_Shell 1.0.1 (data.lua)
-   2.520 Loading mod Power Armor MK3 0.4.1 (data.lua)
-   2.527 Loading mod alien-biomes 0.6.8 (data.lua)
-   2.528 Script @__alien-biomes__/data.lua:4: Log mods once: {
+   0.046 System info: [CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, 16 cores, RAM: 40960 MB]
+   0.046 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmW] [Lang: en]
+   0.156 Available displays: 3
+   0.156  [0]: iMac - {[0,0], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x42baca4(0x01)}
+   0.156  [1]: LEN P27h-10 - {[-2560,192], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x2b985ef5(0x02)}
+   0.156  [2]: Studio Display - {[2560,227], 2560x1440, SDL_PIXELFORMAT_ARGB8888, 60Hz, 0x42b56ba(0x04)}
+   1.125 Initialised OpenGL:[0] AMD Radeon Pro 5500 XT OpenGL Engine; driver: 4.1 ATI-4.9.48
+   1.125   [Size] Window: 2560x1440, Backbuffer: 5120x2880
+   1.125   [Extensions] s3tc:yes; KHR_debug:NO; ARB_clear_texture:NO, ARB_copy_image:NO
+   1.125   [Version] 4.1
+   1.125 Graphics settings preset: very-high
+   1.125   Dedicated video memory size 8176 MB (detected from AMD Radeon Pro 5500 XT Compute Engine; VendorID: 0x1021e00)
+   1.221 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
+   1.221                   [Max threads (load/render): 32/16] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
+   1.855 [Audio] Backend:SDL(default); Driver:coreaudio, Device:Default device, Depth:16, Channels:2, Frequency:44100
+   2.030 Info ModManager.cpp:253: Found duplicate mod AutoDeconstruct, using higher version (0.3.5 > 0.3.4).
+   2.059 Loading mod settings InfiniteResourcesNormalYieldDepletion 0.0.4 (settings.lua)
+   2.059 Loading mod settings AutoDeconstruct 0.3.5 (settings.lua)
+   2.060 Loading mod settings even-distribution 1.0.10 (settings.lua)
+   2.060 Loading mod settings jetpack 0.3.8 (settings.lua)
+   2.060 Loading mod settings Power Armor MK3 0.4.1 (settings.lua)
+   2.061 Loading mod settings Squeak Through 1.8.2 (settings.lua)
+   2.061 Loading mod settings alien-biomes 0.6.8 (settings.lua)
+   2.062 Loading mod settings Nanobots 3.2.19 (settings.lua)
+   2.062 Loading mod settings ZRecycling 1.1.4 (settings.lua)
+   2.063 Loading mod settings AutoDeconstruct 0.3.5 (settings-final-fixes.lua)
+   2.065 Loading mod core 0.0.0 (data.lua)
+   2.101 Loading mod base 1.1.74 (data.lua)
+   2.250 Loading mod InfiniteResourcesNormalYieldDepletion 0.0.4 (data.lua)
+   2.256 Loading mod AfraidOfTheDark 1.1.1 (data.lua)
+   2.263 Loading mod alien-biomes-hr-terrain 0.6.1 (data.lua)
+   2.269 Loading mod even-distribution 1.0.10 (data.lua)
+   2.274 Loading mod flib 0.12.4 (data.lua)
+   2.280 Loading mod jetpack 0.3.8 (data.lua)
+   2.287 Loading mod Nuclear_Artillery_Shell 1.0.1 (data.lua)
+   2.293 Loading mod Power Armor MK3 0.4.1 (data.lua)
+   2.300 Loading mod alien-biomes 0.6.8 (data.lua)
+   2.301 Script @__alien-biomes__/data.lua:4: Log mods once: {
   AfraidOfTheDark = "1.1.1",
   AutoDeconstruct = "0.3.5",
   InfiniteResourcesNormalYieldDepletion = "0.0.4",
@@ -59,23 +59,23 @@
   jetpack = "0.3.8",
   stdlib = "1.4.8"
 }
-   2.721 Loading mod Nanobots 3.2.19 (data.lua)
-   2.737 Loading mod ZRecycling 1.1.4 (data.lua)
-   2.748 Loading mod base 1.1.74 (data-updates.lua)
-   2.758 Loading mod InfiniteResourcesNormalYieldDepletion 0.0.4 (data-updates.lua)
-   2.773 Loading mod AfraidOfTheDark 1.1.1 (data-updates.lua)
-   2.782 Loading mod Power Armor MK3 0.4.1 (data-updates.lua)
-   2.791 Loading mod Squeak Through 1.8.2 (data-updates.lua)
-   2.800 Loading mod alien-biomes 0.6.8 (data-updates.lua)
-   2.810 Loading mod Nanobots 3.2.19 (data-updates.lua)
-   2.824 Loading mod AfraidOfTheDark 1.1.1 (data-final-fixes.lua)
-   2.833 Loading mod jetpack 0.3.8 (data-final-fixes.lua)
-   2.846 Loading mod Power Armor MK3 0.4.1 (data-final-fixes.lua)
-   2.855 Loading mod alien-biomes 0.6.8 (data-final-fixes.lua)
-   2.859 Script @__alien-biomes__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [vehicle-layer] set to layer [layer-13]
-   2.879 Script @__alien-biomes__/data-final-fixes.lua:300: Setting decals to layer 163
-   2.879 Script @__alien-biomes__/data-final-fixes.lua:407: logging tile layers
-   2.886 Script @__alien-biomes__/data-final-fixes.lua:412: {
+   2.499 Loading mod Nanobots 3.2.19 (data.lua)
+   2.515 Loading mod ZRecycling 1.1.4 (data.lua)
+   2.526 Loading mod base 1.1.74 (data-updates.lua)
+   2.536 Loading mod InfiniteResourcesNormalYieldDepletion 0.0.4 (data-updates.lua)
+   2.550 Loading mod AfraidOfTheDark 1.1.1 (data-updates.lua)
+   2.559 Loading mod Power Armor MK3 0.4.1 (data-updates.lua)
+   2.568 Loading mod Squeak Through 1.8.2 (data-updates.lua)
+   2.577 Loading mod alien-biomes 0.6.8 (data-updates.lua)
+   2.586 Loading mod Nanobots 3.2.19 (data-updates.lua)
+   2.599 Loading mod AfraidOfTheDark 1.1.1 (data-final-fixes.lua)
+   2.608 Loading mod jetpack 0.3.8 (data-final-fixes.lua)
+   2.620 Loading mod Power Armor MK3 0.4.1 (data-final-fixes.lua)
+   2.629 Loading mod alien-biomes 0.6.8 (data-final-fixes.lua)
+   2.633 Script @__alien-biomes__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [vehicle-layer] set to layer [layer-13]
+   2.653 Script @__alien-biomes__/data-final-fixes.lua:300: Setting decals to layer 163
+   2.653 Script @__alien-biomes__/data-final-fixes.lua:407: logging tile layers
+   2.661 Script @__alien-biomes__/data-final-fixes.lua:412: {
   ["layer 0"] = "out-of-map",
   ["layer 1"] = "water, water-green",
   ["layer 2"] = "deepwater, deepwater-green",
@@ -281,13 +281,13 @@
   ["layer 202"] = "cyan-refined-concrete",
   ["layer 203"] = "acid-refined-concrete"
 }
-   2.895 Loading mod ZRecycling 1.1.4 (data-final-fixes.lua)
-   2.897 Script @__ZRecycling__/lookups/modplugins.lua:778: Warning: Recycling Machines unsupported type: linked-container
-   2.897 Script @__ZRecycling__/lookups/modplugins.lua:778: Warning: Recycling Machines unsupported type: linked-belt
-   2.897 Script @__ZRecycling__/lookups/modplugins.lua:778: Warning: Recycling Machines unsupported type: tips-and-tricks-item
-   2.897 Script @__ZRecycling__/lookups/modplugins.lua:778: Warning: Recycling Machines unsupported type: tips-and-tricks-item-category
-   2.898 Script @__ZRecycling__/lookups/modplugins.lua:778: Warning: Recycling Machines unsupported type: animation
-   2.898 Script @__ZRecycling__/data-final-fixes.lua:80: {
+   2.669 Loading mod ZRecycling 1.1.4 (data-final-fixes.lua)
+   2.671 Script @__ZRecycling__/lookups/modplugins.lua:778: Warning: Recycling Machines unsupported type: linked-container
+   2.671 Script @__ZRecycling__/lookups/modplugins.lua:778: Warning: Recycling Machines unsupported type: linked-belt
+   2.672 Script @__ZRecycling__/lookups/modplugins.lua:778: Warning: Recycling Machines unsupported type: tips-and-tricks-item
+   2.672 Script @__ZRecycling__/lookups/modplugins.lua:778: Warning: Recycling Machines unsupported type: tips-and-tricks-item-category
+   2.672 Script @__ZRecycling__/lookups/modplugins.lua:778: Warning: Recycling Machines unsupported type: animation
+   2.672 Script @__ZRecycling__/data-final-fixes.lua:80: {
   AfraidOfTheDark = "1.1.1",
   AutoDeconstruct = "0.3.5",
   InfiniteResourcesNormalYieldDepletion = "0.0.4",
@@ -304,155 +304,126 @@
   jetpack = "0.3.8",
   stdlib = "1.4.8"
 }
-   2.898 Script @__ZRecycling__/data-final-fixes.lua:576: ***************** Start matching
-   2.900 Script @__ZRecycling__/data-final-fixes.lua:647: Slow matching: concrete of type: item subgroup: terrain
-   2.900 Script @__ZRecycling__/data-final-fixes.lua:647: Slow matching: refined-concrete of type: item subgroup: terrain
-   2.900 Script @__ZRecycling__/data-final-fixes.lua:647: Slow matching: hazard-concrete of type: item subgroup: terrain
-   2.900 Script @__ZRecycling__/data-final-fixes.lua:647: Slow matching: refined-hazard-concrete of type: item subgroup: terrain
-   2.900 Script @__ZRecycling__/data-final-fixes.lua:647: Slow matching: landfill of type: item subgroup: terrain
-   2.902 Script @__ZRecycling__/data-final-fixes.lua:681: ***************** End matching
-   3.023 Checksum for core: 870127790
-   3.023 Checksum of base: 4211423066
-   3.023 Checksum of InfiniteResourcesNormalYieldDepletion: 1233221663
-   3.023 Checksum of AfraidOfTheDark: 2330519148
-   3.023 Checksum of alien-biomes-hr-terrain: 2010945986
-   3.023 Checksum of AutoDeconstruct: 2741496923
-   3.023 Checksum of even-distribution: 3296431338
-   3.023 Checksum of flib: 798436525
-   3.023 Checksum of jetpack: 261709526
-   3.023 Checksum of Nuclear_Artillery_Shell: 3830865162
-   3.023 Checksum of Power Armor MK3: 252935734
-   3.023 Checksum of Squeak Through: 2759453103
-   3.023 Checksum of stdlib: 0
-   3.023 Checksum of alien-biomes: 793539720
-   3.023 Checksum of Nanobots: 1360658138
-   3.023 Checksum of ZRecycling: 170640800
-   3.302 Prototype list checksum: 3520191024
-   3.379 Loading sounds...
-   3.719 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1673300011
-   3.719 Info PlayerData.cpp:78: Cloud player-data.json unavailable
-   3.910 Initial atlas bitmap size is 16384
-   3.926 Created atlas bitmap 16384x16380 [none]
-   3.928 Created atlas bitmap 16384x13804 [none]
-   3.928 Created atlas bitmap 16384x4972 [decal]
-   3.928 Created atlas bitmap 16384x5760 [low-object]
-   3.928 Created atlas bitmap 16384x4032 [mipmap, linear-minification, linear-magnification, linear-mip-level]
-   3.933 Created atlas bitmap 16384x16352 [terrain, mipmap, linear-minification, linear-mip-level]
-   3.933 Created atlas bitmap 16384x5760 [terrain, mipmap, linear-minification, linear-mip-level]
-   3.933 Created atlas bitmap 8192x1920 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
-   3.933 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
-   3.933 Created atlas bitmap 8192x3024 [mipmap]
-   3.933 Created atlas bitmap 8192x2480 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
-   3.933 Created atlas bitmap 8192x1632 [alpha-mask]
-   3.935 Created atlas bitmap 16384x14812 [shadow, linear-magnification, alpha-mask]
-   3.935 Created atlas bitmap 16384x4016 [shadow, mipmap, linear-magnification, alpha-mask]
-   3.935 Created atlas bitmap 2048x272 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
-   4.009 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
-   6.255 Parallel Sprite Loader initialized (threads: 15)
-   6.322 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-battmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   6.322 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-esmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   6.323 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-hvest.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   6.323 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-inff.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   6.323 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-lvest.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   6.324 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-nvmk2.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   6.324 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pamk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   6.324 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pamk4.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   6.325 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pnr.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   6.325 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-se.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-   6.325 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-battmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
-   6.327 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-esmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
-   6.327 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-nvmk2.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
-   6.329 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-pnr.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
-   6.329 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-se.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
-  16.672 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  16.672 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  16.672 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  16.672 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
-  16.672 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  16.674 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  16.676 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  16.677 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
-  16.739 Sprites loaded
-  16.821 Generated mipmaps (4) for atlas [3] of size 16384x5760   
-  16.854 Generated mipmaps (3) for atlas [4] of size 16384x4032   
-  16.945 Generated mipmaps (3) for atlas [5] of size 16384x16352   
-  16.984 Generated mipmaps (3) for atlas [6] of size 16384x5760   
-  16.992 Generated mipmaps (3) for atlas [7] of size 8192x1920   
-  16.999 Generated mipmaps (3) for atlas [8] of size 4096x1856   
-  17.055 Generated mipmaps (3) for atlas [9] of size 8192x3024   
-  17.120 Generated mipmaps (5) for atlas [10] of size 8192x2480   
-  17.143 Generated mipmaps (3) for atlas [13] of size 16384x4016   
-  17.146 Custom mipmaps uploaded.
-  17.158 Custom inputs active: 4
-  17.314 Factorio initialised
-  17.315 Info HttpSharedState.cpp:54: Downloading https://updater.factorio.com/updater/get-available-versions?username=jpericles&token=<private>&apiVersion=2
-  17.792 0 packages available to download (experimental updates disabled).
-  19.949 Loading map /Users/james/Library/Application Support/factorio/saves/_autosave1.zip: 15197871 bytes.
-  19.979 Loading level.dat: 42180222 bytes.
-  19.993 Info Scenario.cpp:199: Map version 1.1.74-1
-  20.535 Loading script.dat: 11657 bytes.
-  20.537 Checksum for script /Users/james/Library/Application Support/factorio/temp/currently-playing/control.lua: 2881393120
-  20.539 Checksum for script __InfiniteResourcesNormalYieldDepletion__/control.lua: 2023790213
-  20.540 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
-  20.541 Checksum for script __AutoDeconstruct__/control.lua: 1607600420
-  20.542 Script @__even-distribution__/framework.lua:72: 0 [ED] Initializing framework... DEBUG = false
-  20.542 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom scripts...
-  20.542 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: metatables
-  20.543 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: util
-  20.543 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: helpers
-  20.543 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: setup
-  20.544 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: remote
-  20.544 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: visuals
-  20.544 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: gui-tools
-  20.544 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: drag
-  20.545 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: cleanup
-  20.545 Script @__even-distribution__/framework.lua:72: 0 [ED] GUI-Script: settings-gui
-  20.546 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering default event handlers...
-  20.546 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom inputs...
-  20.546 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
-  20.546 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
-  20.546 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
-  20.547 Script @__even-distribution__/framework.lua:72: 0 [ED] Successfully initialized
-  20.547 Checksum for script __even-distribution__/control.lua: 850894597
-  20.552 Checksum for script __jetpack__/control.lua: 2363448258
-  20.553 Checksum for script __alien-biomes__/control.lua: 1814481397
-  20.561 Checksum for script __Nanobots__/control.lua: 1686961069
-  20.562 Checksum for script __ZRecycling__/control.lua: 977695416
-  61.138 Loading map /Users/james/Library/Application Support/factorio/saves/Mac.zip: 15238373 bytes.
-  61.163 Loading level.dat: 42278192 bytes.
-  61.169 Info Scenario.cpp:199: Map version 1.1.74-1
-  61.748 Loading script.dat: 11637 bytes.
-  61.750 Checksum for script /Users/james/Library/Application Support/factorio/temp/currently-playing/control.lua: 2881393120
-  61.752 Checksum for script __InfiniteResourcesNormalYieldDepletion__/control.lua: 2023790213
-  61.753 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
-  61.755 Checksum for script __AutoDeconstruct__/control.lua: 1607600420
-  61.756 Script @__even-distribution__/framework.lua:72: 0 [ED] Initializing framework... DEBUG = false
-  61.756 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom scripts...
-  61.756 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: metatables
-  61.756 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: util
-  61.756 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: helpers
-  61.757 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: setup
-  61.757 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: remote
-  61.757 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: visuals
-  61.758 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: gui-tools
-  61.758 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: drag
-  61.758 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: cleanup
-  61.759 Script @__even-distribution__/framework.lua:72: 0 [ED] GUI-Script: settings-gui
-  61.759 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering default event handlers...
-  61.760 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom inputs...
-  61.760 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
-  61.760 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
-  61.760 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
-  61.761 Script @__even-distribution__/framework.lua:72: 0 [ED] Successfully initialized
-  61.761 Checksum for script __even-distribution__/control.lua: 850894597
-  61.764 Checksum for script __jetpack__/control.lua: 2363448258
-  61.765 Checksum for script __alien-biomes__/control.lua: 1814481397
-  61.773 Checksum for script __Nanobots__/control.lua: 1686961069
-  61.774 Checksum for script __ZRecycling__/control.lua: 977695416
- 188.286 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
- 188.654 Info AppManagerStates.cpp:1903: Saving finished
- 488.670 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
- 489.008 Info AppManagerStates.cpp:1903: Saving finished
- 559.504 Info AppManagerStates.cpp:1903: Saving finished
- 561.757 Quitting: window closed.
- 562.193 Goodbye
+   2.672 Script @__ZRecycling__/data-final-fixes.lua:576: ***************** Start matching
+   2.674 Script @__ZRecycling__/data-final-fixes.lua:647: Slow matching: concrete of type: item subgroup: terrain
+   2.674 Script @__ZRecycling__/data-final-fixes.lua:647: Slow matching: refined-concrete of type: item subgroup: terrain
+   2.674 Script @__ZRecycling__/data-final-fixes.lua:647: Slow matching: hazard-concrete of type: item subgroup: terrain
+   2.674 Script @__ZRecycling__/data-final-fixes.lua:647: Slow matching: refined-hazard-concrete of type: item subgroup: terrain
+   2.674 Script @__ZRecycling__/data-final-fixes.lua:647: Slow matching: landfill of type: item subgroup: terrain
+   2.676 Script @__ZRecycling__/data-final-fixes.lua:681: ***************** End matching
+   2.796 Checksum for core: 870127790
+   2.796 Checksum of base: 4211423066
+   2.796 Checksum of InfiniteResourcesNormalYieldDepletion: 1233221663
+   2.796 Checksum of AfraidOfTheDark: 2330519148
+   2.796 Checksum of alien-biomes-hr-terrain: 2010945986
+   2.796 Checksum of AutoDeconstruct: 2741496923
+   2.796 Checksum of even-distribution: 3296431338
+   2.796 Checksum of flib: 798436525
+   2.796 Checksum of jetpack: 261709526
+   2.796 Checksum of Nuclear_Artillery_Shell: 3830865162
+   2.796 Checksum of Power Armor MK3: 252935734
+   2.796 Checksum of Squeak Through: 2759453103
+   2.796 Checksum of stdlib: 0
+   2.796 Checksum of alien-biomes: 793539720
+   2.796 Checksum of Nanobots: 1360658138
+   2.796 Checksum of ZRecycling: 170640800
+   3.070 Prototype list checksum: 3520191024
+   3.145 Loading sounds...
+   3.418 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1673300575
+   3.418 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+   3.608 Initial atlas bitmap size is 16384
+   3.625 Created atlas bitmap 16384x16380 [none]
+   3.627 Created atlas bitmap 16384x13804 [none]
+   3.627 Created atlas bitmap 16384x4972 [decal]
+   3.627 Created atlas bitmap 16384x5760 [low-object]
+   3.627 Created atlas bitmap 16384x4032 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   3.632 Created atlas bitmap 16384x16352 [terrain, mipmap, linear-minification, linear-mip-level]
+   3.632 Created atlas bitmap 16384x5760 [terrain, mipmap, linear-minification, linear-mip-level]
+   3.632 Created atlas bitmap 8192x1920 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   3.632 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   3.632 Created atlas bitmap 8192x3024 [mipmap]
+   3.632 Created atlas bitmap 8192x2480 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   3.632 Created atlas bitmap 8192x1632 [alpha-mask]
+   3.634 Created atlas bitmap 16384x14812 [shadow, linear-magnification, alpha-mask]
+   3.634 Created atlas bitmap 16384x4016 [shadow, mipmap, linear-magnification, alpha-mask]
+   3.634 Created atlas bitmap 2048x272 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   3.704 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   6.012 Parallel Sprite Loader initialized (threads: 15)
+   6.082 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-battmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   6.082 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-esmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   6.082 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-hvest.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   6.083 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-inff.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   6.083 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-lvest.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   6.084 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-nvmk2.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   6.084 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pamk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   6.084 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pamk4.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   6.085 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-pnr.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   6.085 Warning! Sprite at {0,0; 64x64} from __Power Armor MK3__/graphics/icons/pamk3-se.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+   6.085 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-battmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
+   6.086 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-esmk3.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
+   6.086 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-nvmk2.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
+   6.088 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-pnr.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
+   6.089 Warning! Sprite at {0,0; 256x256} from __Power Armor MK3__/graphics/technology/pamk3-se.png is defined with 4 mipmap levels, but level 1 is expected to be at {256,0; 128x128} which is out of bounds of the source image.
+  21.552 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  21.553 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  21.553 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  21.553 Warning! Sprite at {0,0; 64x64} from __jetpack__/graphics/icons/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {64,0; 32x32} which is out of bounds of the source image.
+  21.553 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-1.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  21.554 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-2.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  21.554 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-3.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  21.554 Warning! Sprite at {0,0; 128x128} from __jetpack__/graphics/technology/jetpack-4.png is defined with 4 mipmap levels, but level 1 is expected to be at {128,0; 64x64} which is out of bounds of the source image.
+  21.618 Sprites loaded
+  21.697 Generated mipmaps (4) for atlas [3] of size 16384x5760   
+  21.731 Generated mipmaps (3) for atlas [4] of size 16384x4032   
+  21.823 Generated mipmaps (3) for atlas [5] of size 16384x16352   
+  21.863 Generated mipmaps (3) for atlas [6] of size 16384x5760   
+  21.871 Generated mipmaps (3) for atlas [7] of size 8192x1920   
+  21.878 Generated mipmaps (3) for atlas [8] of size 4096x1856   
+  21.934 Generated mipmaps (3) for atlas [9] of size 8192x3024   
+  21.998 Generated mipmaps (5) for atlas [10] of size 8192x2480   
+  22.021 Generated mipmaps (3) for atlas [13] of size 16384x4016   
+  22.026 Custom mipmaps uploaded.
+  22.054 Custom inputs active: 4
+  22.288 Factorio initialised
+  22.291 Info HttpSharedState.cpp:54: Downloading https://updater.factorio.com/updater/get-available-versions?username=jpericles&token=<private>&apiVersion=2
+  22.698 0 packages available to download (experimental updates disabled).
+  24.033 Loading map /Users/james/Library/Application Support/factorio/saves/Mac.zip: 15238660 bytes.
+  24.057 Loading level.dat: 41834920 bytes.
+  24.062 Info Scenario.cpp:199: Map version 1.1.74-1
+  24.682 Loading script.dat: 11628 bytes.
+  24.684 Checksum for script /Users/james/Library/Application Support/factorio/temp/currently-playing/control.lua: 2881393120
+  24.686 Checksum for script __InfiniteResourcesNormalYieldDepletion__/control.lua: 2023790213
+  24.686 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
+  24.689 Checksum for script __AutoDeconstruct__/control.lua: 1607600420
+  24.692 Script @__even-distribution__/framework.lua:72: 0 [ED] Initializing framework... DEBUG = false
+  24.693 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom scripts...
+  24.693 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: metatables
+  24.693 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: util
+  24.693 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: helpers
+  24.694 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: setup
+  24.694 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: remote
+  24.695 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: visuals
+  24.695 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: gui-tools
+  24.695 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: drag
+  24.696 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: cleanup
+  24.696 Script @__even-distribution__/framework.lua:72: 0 [ED] GUI-Script: settings-gui
+  24.697 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering default event handlers...
+  24.697 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom inputs...
+  24.697 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+  24.697 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+  24.697 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+  24.698 Script @__even-distribution__/framework.lua:72: 0 [ED] Successfully initialized
+  24.698 Checksum for script __even-distribution__/control.lua: 850894597
+  24.704 Checksum for script __jetpack__/control.lua: 2363448258
+  24.704 Checksum for script __alien-biomes__/control.lua: 1814481397
+  24.716 Checksum for script __Nanobots__/control.lua: 1686961069
+  24.717 Checksum for script __ZRecycling__/control.lua: 977695416
+ 257.089 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+ 257.461 Info AppManagerStates.cpp:1903: Saving finished
+ 565.356 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+ 565.705 Info AppManagerStates.cpp:1903: Saving finished
+ 865.772 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+ 866.146 Info AppManagerStates.cpp:1903: Saving finished
+1067.375 Info AppManagerStates.cpp:1903: Saving finished
+1068.665 Quitting: window closed.
+1069.154 Goodbye

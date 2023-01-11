@@ -152,7 +152,7 @@
         },
         
         {
-          "count": 9
+          "count": 15
         }
       ]
     },
@@ -490,7 +490,7 @@
     "game_version": "1.1.74",
     "build_version": 60256,
     "build_mode": "full",
-    "platform": "mac-x64"
+    "platform": "mac-arm64"
   },
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
@@ -507,6 +507,8 @@
     "train_station",
     "forest_fire",
     "solar_power_construction",
-    "mining_defense"
+    "mining_defense",
+    "brutal_defeat",
+    "train_junction"
   ]
 }
