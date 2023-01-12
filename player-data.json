@@ -152,13 +152,13 @@
         },
         
         {
-          "count": 15
+          "count": 18
         }
       ]
     },
     "copy-paste-spidertron": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "drag-building": 
     {
@@ -263,7 +263,7 @@
         },
         
         {
-          "count": 64
+          "count": 67
         }
       ]
     },
@@ -509,6 +509,8 @@
     "solar_power_construction",
     "mining_defense",
     "brutal_defeat",
-    "train_junction"
+    "train_junction",
+    "nuclear_power",
+    "early_smelting"
   ]
 }
