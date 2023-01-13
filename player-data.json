@@ -392,7 +392,7 @@
   "last-played": 
   {
     "type": "single-player",
-    "save-name": "Mac"
+    "save-name": "_autosave3"
   },
   "service-username": "jpericles",
   "service-token": "061ff8a21c5c6f23da15b9dcf5d06e",
@@ -511,6 +511,11 @@
     "brutal_defeat",
     "train_junction",
     "nuclear_power",
-    "early_smelting"
+    "early_smelting",
+    "spider_ponds",
+    "chase_player",
+    "lab",
+    "biter_base_steamrolled",
+    "oil_refinery"
   ]
 }
