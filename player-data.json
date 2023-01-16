@@ -152,7 +152,7 @@
         },
         
         {
-          "count": 18
+          "count": 19
         }
       ]
     },
@@ -389,10 +389,14 @@
       "status": "unlocked"
     }
   },
+  "console-history": 
+  [
+    "/time"
+  ],
   "last-played": 
   {
     "type": "single-player",
-    "save-name": "_autosave3"
+    "save-name": "Mac"
   },
   "service-username": "jpericles",
   "service-token": "061ff8a21c5c6f23da15b9dcf5d06e",
@@ -495,17 +499,6 @@
   "blueprint-view": "grid",
   "main-menu-simulations-played": 
   [
-    "big_defense",
-    "artillery",
-    "logistic_robots",
-    "burner_city",
-    "biter_base_artillery",
-    "biter_base_laser_defense",
-    "biter_base_spidertron",
-    "biter_base_player_attack",
-    "oil_pumpjacks",
-    "train_station",
-    "forest_fire",
     "solar_power_construction",
     "mining_defense",
     "brutal_defeat",
@@ -516,6 +509,15 @@
     "chase_player",
     "lab",
     "biter_base_steamrolled",
-    "oil_refinery"
+    "oil_refinery",
+    "biter_base_player_attack",
+    "burner_city",
+    "biter_base_artillery",
+    "forest_fire",
+    "biter_base_spidertron",
+    "big_defense",
+    "train_station",
+    "biter_base_laser_defense",
+    "oil_pumpjacks"
   ]
 }
